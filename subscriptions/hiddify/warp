@@ -1,0 +1,9 @@
+#profile-title: base64:VFZDIHwgV0FSUA==
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/PacketCipher
+#profile-web-page-url: https://github.com/PacketCipher/TVC
+
+warp://auto#Warp-Auto&&detour=warp://auto#WarpInWarp-Auto 🌎
+warp://188.114.97.72:1010?ifp=5-10#Warp-IP-1&&detour=warp://162.159.192.175:1010?ifp=5-10#WarpInWarp-IP-1 🌎
+warp://162.159.192.175:1010?ifp=5-10#Warp-IP-2&&detour=warp://188.114.97.72:1010?ifp=5-10#WarpInWarp-IP-2 🌎

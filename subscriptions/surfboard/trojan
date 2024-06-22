@@ -1,0 +1,34 @@
+#!MANAGED-CONFIG  interval=60 strict=false
+
+[General]
+loglevel = notify
+interface = 127.0.0.1
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
+ipv6 = true
+dns-server = system, 223.5.5.5
+exclude-simple-hostnames = true
+enhanced-mode-by-rule = true
+
+[Proxy]
+DIRECT = direct
+🇨🇦CA | 🟢 | trojan | @DirectVPN | 3 = trojan, 15.156.240.52, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇺🇸US | 🟢 | trojan | @DirectVPN | 2 = trojan, 3.140.129.167, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇨🇦CA | 🟢 | trojan | @DirectVPN | 4 = trojan, 35.183.146.217, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 2 = trojan, 13.38.247.141, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1 = trojan, 15.188.20.234, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12 = trojan, 15.188.204.217, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9 = trojan, 52.56.80.12, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇫🇷FR | 🟢 | trojan | @DirectVPN | 9 = trojan, 15.188.190.152, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7 = trojan, 52.19.40.252, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇮🇪IE | 🟢 | trojan | @DirectVPN | 6 = trojan, 54.78.65.72, 22222, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13 = trojan, 52.28.85.144, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 14 = trojan, 52.58.207.145, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5 = trojan, 13.60.123.187, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15 = trojan, 16.170.59.252, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+[Proxy Group]
+MANUAL = select,URL-TEST,FALLBACK,🇨🇦CA | 🟢 | trojan | @DirectVPN | 3,🇺🇸US | 🟢 | trojan | @DirectVPN | 2,🇨🇦CA | 🟢 | trojan | @DirectVPN | 4,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 2,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9,🇫🇷FR | 🟢 | trojan | @DirectVPN | 9,🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7,🇮🇪IE | 🟢 | trojan | @DirectVPN | 6,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 14,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15
+URL-TEST = url-test,🇨🇦CA | 🟢 | trojan | @DirectVPN | 3,🇺🇸US | 🟢 | trojan | @DirectVPN | 2,🇨🇦CA | 🟢 | trojan | @DirectVPN | 4,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 2,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9,🇫🇷FR | 🟢 | trojan | @DirectVPN | 9,🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7,🇮🇪IE | 🟢 | trojan | @DirectVPN | 6,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 14,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15
+FALLBACK = fallback,🇨🇦CA | 🟢 | trojan | @DirectVPN | 3,🇺🇸US | 🟢 | trojan | @DirectVPN | 2,🇨🇦CA | 🟢 | trojan | @DirectVPN | 4,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 2,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 1,🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12,🇬🇧GB | 🟢 | trojan | @PrivateVPNs | 9,🇫🇷FR | 🟢 | trojan | @DirectVPN | 9,🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 7,🇮🇪IE | 🟢 | trojan | @DirectVPN | 6,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13,🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 14,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 5,🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15
+[Rule]
+GEOIP,IR,DIRECT
+FINAL,MANUAL

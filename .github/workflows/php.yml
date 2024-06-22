@@ -1,0 +1,39 @@
+name: "Let's TVC!"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/60 * * * *'
+    
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  tvc-full:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          
+      - name: Execute PHP script
+        run: |
+          php get.php
+          php config-test.php
+          php duplicate.php
+          php toSingbox.php
+          php toClashSurfboard.php
+          php get_wireguard.php
+          php wireguard-toSingbox.php
+          php hiddifyWarp.php
+          git config --global user.email "thepacketcipher@gmail.com"
+          git config --global user.name "thepacketcipher"
+          git config credential.helper store
+          git add -A
+          git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
+          git push
