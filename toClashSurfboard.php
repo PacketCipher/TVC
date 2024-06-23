@@ -639,7 +639,7 @@ function configsProxyGroup($outboundType)
                 "URL-TEST" => [
                     "  - name: URL-TEST",
                     "    type: url-test",
-                    "    url: http://www.gstatic.com/generate_204",
+                    "    url: http://cp.cloudflare.com",
                     "    interval: 60",
                     "    tolerance: 50",
                     "    proxies:",
@@ -647,7 +647,7 @@ function configsProxyGroup($outboundType)
                 "FALLBACK" => [
                     "  - name: FALLBACK",
                     "    type: fallback",
-                    "    url: http://www.gstatic.com/generate_204",
+                    "    url: http://cp.cloudflare.com",
                     "    interval: 60",
                     "    proxies:",
                 ],
@@ -665,7 +665,7 @@ function configsProxyGroup($outboundType)
                 "URL-TEST" => [
                     "  - name: URL-TEST",
                     "    type: url-test",
-                    "    url: http://www.gstatic.com/generate_204",
+                    "    url: http://cp.cloudflare.com/",
                     "    interval: 60",
                     "    tolerance: 50",
                     "    proxies:",
@@ -673,7 +673,7 @@ function configsProxyGroup($outboundType)
                 "FALLBACK" => [
                     "  - name: FALLBACK",
                     "    type: fallback",
-                    "    url: http://www.gstatic.com/generate_204",
+                    "    url: http://cp.cloudflare.com/",
                     "    interval: 60",
                     "    proxies:",
                 ],
