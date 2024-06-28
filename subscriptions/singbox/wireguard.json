@@ -118,7 +118,8 @@
                 "CPTR|16",
                 "CPTR|17",
                 "CPTR|18",
-                "CPTR|19"
+                "CPTR|19",
+                "CPTR|20"
             ]
         },
         {
@@ -143,7 +144,8 @@
                 "CPTR|16",
                 "CPTR|17",
                 "CPTR|18",
-                "CPTR|19"
+                "CPTR|19",
+                "CPTR|20"
             ],
             "url": "http://cp.cloudflare.com",
             "interval": "3m",
@@ -167,6 +169,25 @@
         },
         {
             "type": "wireguard",
+            "private_key": "aL1EzANqNYumTuNDSy0ZrMNMYQcwcPhwnhSS3n1UGEY=",
+            "server": "188.114.99.58",
+            "server_port": 1070,
+            "local_address": [
+                "172.16.0.2/32",
+                "2606:4700:110:8f81:d551:a0:532e:a2b3/128"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                219,
+                186,
+                29
+            ],
+            "mtu": 1280,
+            "tag": "CPTR|1",
+            "fake_packets": "5-10"
+        },
+        {
+            "type": "wireguard",
             "private_key": "8IYjoy7NT9g9lKa4J7+uZaYwiSwrlvBOBc+OvubRgV4=",
             "server": "188.114.99.227",
             "server_port": 7156,
@@ -181,7 +202,7 @@
                 85
             ],
             "mtu": 1280,
-            "tag": "CPTR|1",
+            "tag": "CPTR|2",
             "fake_packets": "5-10"
         },
         {
@@ -200,7 +221,7 @@
                 151
             ],
             "mtu": 1280,
-            "tag": "CPTR|2",
+            "tag": "CPTR|3",
             "fake_packets": "5-10"
         },
         {
@@ -219,7 +240,7 @@
                 155
             ],
             "mtu": 1280,
-            "tag": "CPTR|3",
+            "tag": "CPTR|4",
             "fake_packets": "5-10"
         },
         {
@@ -238,7 +259,7 @@
                 220
             ],
             "mtu": 1280,
-            "tag": "CPTR|4",
+            "tag": "CPTR|5",
             "fake_packets": "5-10"
         },
         {
@@ -257,7 +278,7 @@
                 235
             ],
             "mtu": 1280,
-            "tag": "CPTR|5",
+            "tag": "CPTR|6",
             "fake_packets": "5-10"
         },
         {
@@ -276,7 +297,7 @@
                 151
             ],
             "mtu": 1280,
-            "tag": "CPTR|6",
+            "tag": "CPTR|7",
             "fake_packets": "5-10"
         },
         {
@@ -295,7 +316,7 @@
                 109
             ],
             "mtu": 1280,
-            "tag": "CPTR|7",
+            "tag": "CPTR|8",
             "fake_packets": "5-10"
         },
         {
@@ -314,7 +335,7 @@
                 97
             ],
             "mtu": 1280,
-            "tag": "CPTR|8",
+            "tag": "CPTR|9",
             "fake_packets": "5-10"
         },
         {
@@ -333,7 +354,7 @@
                 254
             ],
             "mtu": 1280,
-            "tag": "CPTR|9",
+            "tag": "CPTR|10",
             "fake_packets": "5-10"
         },
         {
@@ -352,7 +373,7 @@
                 162
             ],
             "mtu": 1280,
-            "tag": "CPTR|10",
+            "tag": "CPTR|11",
             "fake_packets": "5-10"
         },
         {
@@ -371,7 +392,7 @@
                 110
             ],
             "mtu": 1280,
-            "tag": "CPTR|11",
+            "tag": "CPTR|12",
             "fake_packets": "5-10"
         },
         {
@@ -390,7 +411,7 @@
                 107
             ],
             "mtu": 1280,
-            "tag": "CPTR|12",
+            "tag": "CPTR|13",
             "fake_packets": "5-10"
         },
         {
@@ -409,7 +430,7 @@
                 131
             ],
             "mtu": 1280,
-            "tag": "CPTR|13",
+            "tag": "CPTR|14",
             "fake_packets": "5-10"
         },
         {
@@ -428,7 +449,7 @@
                 180
             ],
             "mtu": 1280,
-            "tag": "CPTR|14",
+            "tag": "CPTR|15",
             "fake_packets": "5-10"
         },
         {
@@ -447,7 +468,7 @@
                 145
             ],
             "mtu": 1280,
-            "tag": "CPTR|15",
+            "tag": "CPTR|16",
             "fake_packets": "5-10"
         },
         {
@@ -466,7 +487,7 @@
                 40
             ],
             "mtu": 1280,
-            "tag": "CPTR|16",
+            "tag": "CPTR|17",
             "fake_packets": "5-10"
         },
         {
@@ -485,7 +506,7 @@
                 196
             ],
             "mtu": 1280,
-            "tag": "CPTR|17",
+            "tag": "CPTR|18",
             "fake_packets": "5-10"
         },
         {
@@ -504,7 +525,7 @@
                 207
             ],
             "mtu": 1280,
-            "tag": "CPTR|18",
+            "tag": "CPTR|19",
             "fake_packets": "5-10"
         },
         {
@@ -523,7 +544,7 @@
                 41
             ],
             "mtu": 1280,
-            "tag": "CPTR|19",
+            "tag": "CPTR|20",
             "fake_packets": "5-10"
         }
     ],
