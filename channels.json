@@ -3310,8 +3310,7 @@
         "vless"
     ],
     "outlineopenkey": [
-        "vmess",
-        "vless"
+        "ss"
     ],
     "outlines_vpn": [
         "vmess",
@@ -3918,20 +3917,18 @@
         "vless"
     ],
     "shadowsocks_021": [
-        "vmess",
-        "vless"
+        "ss"
     ],
     "shadowsockskeys": [
-        "vmess",
-        "vless"
+        "ss"
     ],
     "shadowsocksm": [
         "vmess",
-        "vless"
+        "vless",
+        "ss"
     ],
     "shadowsocksserv": [
-        "vmess",
-        "vless"
+        "ss"
     ],
     "shadowsocksservers": [
         "vmess",
@@ -3939,7 +3936,8 @@
     ],
     "shadowsocksshop": [
         "vmess",
-        "vless"
+        "vless",
+        "ss"
     ],
     "share_nodes": [
         "vmess",
