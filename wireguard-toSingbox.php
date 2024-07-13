@@ -48,7 +48,7 @@ function parseWireguardConfig($config, $number)
     // Calculate fake packet values based on input number
     $parsed['fake_packets'] = ($number * 2 + 1) . '-' . ($number * 2 + 3);
     $parsed['fake_packets_size'] = ($number * 10 + 1) . '-' . ($number * 10 + 10);
-    $parsed['fake_packets_delay'] = ($number * 10 + 1) . '-' . ($number * 10 + 10);
+    $parsed['fake_packets_delay'] = ($number * 20 + 1) . '-' . ($number * 20 + 10);
 
     return ensureUtf8($parsed);
 }
