@@ -12,7 +12,7 @@ function ensureUtf8($data)
     return $data;
 }
 
-function parseWireguardConfig($config)
+function parseWireguardConfig($config, $number)
 {
     $parsed = [];
 
@@ -43,9 +43,12 @@ function parseWireguardConfig($config)
 
     // Extract tag from fragment
     $parsed['tag'] = isset($parts['fragment']) ? $parts['fragment'] : null;
+    $parsed['tag'] = $parsed['tag'] . "|Type $number";
 
-    // Add some default values
-    $parsed['fake_packets'] = '5-10';
+    // Calculate fake packet values based on input number
+    $parsed['fake_packets'] = ($number * 2 + 1) . '-' . ($number * 2 + 3);
+    $parsed['fake_packets_size'] = ($number * 10 + 1) . '-' . ($number * 10 + 10);
+    $parsed['fake_packets_delay'] = ($number * 10 + 1) . '-' . ($number * 10 + 10);
 
     return ensureUtf8($parsed);
 }
@@ -57,7 +60,9 @@ $wireguard_configs = explode("\n", trim($wireguard_input));
 $new_outbounds = [];
 
 foreach ($wireguard_configs as $config) {
-    $new_outbounds[] = parseWireguardConfig($config);
+    for ($number = 0; $number <= 15; $number++) {
+        $new_outbounds[] = parseWireguardConfig($config, $number);
+    }
 }
 
 // Read and parse the structure
