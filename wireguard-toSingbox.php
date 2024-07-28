@@ -60,7 +60,7 @@ $wireguard_configs = explode("\n", trim($wireguard_input));
 $new_outbounds = [];
 
 foreach ($wireguard_configs as $config) {
-    for ($number = 0; $number <= 15; $number++) {
+    for ($number = 0; $number < 1; $number++) {
         $new_outbounds[] = parseWireguardConfig($config, $number);
     }
 }
