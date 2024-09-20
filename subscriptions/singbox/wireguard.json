@@ -163,6 +163,27 @@
         },
         {
             "type": "wireguard",
+            "private_key": "qBnz2CWcXMDJDci/ey+EqKNy+fwuRvZanndCJHj+8n8=",
+            "server": "188.114.97.134",
+            "server_port": 3138,
+            "local_address": [
+                "172.16.0.2/32",
+                "2606:4700:110:8f81:d551:a0:532e:a2b3/128"
+            ],
+            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+            "reserved": [
+                238,
+                1,
+                226
+            ],
+            "mtu": 1280,
+            "tag": "HELI|1|Type 0",
+            "fake_packets": "1-3",
+            "fake_packets_size": "1-10",
+            "fake_packets_delay": "1-10"
+        },
+        {
+            "type": "wireguard",
             "private_key": "oKdG38Gd40qY8zv6LyDLea3SCBvxVkcJ4o9h+f2XDVM=",
             "server": "162.159.195.187",
             "server_port": 1018,
@@ -177,7 +198,7 @@
                 52
             ],
             "mtu": 1280,
-            "tag": "HELI|1|Type 0",
+            "tag": "HELI|2|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -198,7 +219,7 @@
                 245
             ],
             "mtu": 1280,
-            "tag": "HELI|2|Type 0",
+            "tag": "HELI|3|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -219,7 +240,7 @@
                 190
             ],
             "mtu": 1280,
-            "tag": "HELI|3|Type 0",
+            "tag": "HELI|4|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -240,7 +261,7 @@
                 45
             ],
             "mtu": 1280,
-            "tag": "HELI|4|Type 0",
+            "tag": "HELI|5|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -261,7 +282,7 @@
                 252
             ],
             "mtu": 1280,
-            "tag": "HELI|5|Type 0",
+            "tag": "HELI|6|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -282,7 +303,7 @@
                 76
             ],
             "mtu": 1280,
-            "tag": "HELI|6|Type 0",
+            "tag": "HELI|7|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -303,7 +324,7 @@
                 206
             ],
             "mtu": 1280,
-            "tag": "HELI|7|Type 0",
+            "tag": "HELI|8|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -324,7 +345,7 @@
                 117
             ],
             "mtu": 1280,
-            "tag": "HELI|8|Type 0",
+            "tag": "HELI|9|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -345,7 +366,7 @@
                 253
             ],
             "mtu": 1280,
-            "tag": "HELI|9|Type 0",
+            "tag": "HELI|10|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -366,7 +387,7 @@
                 31
             ],
             "mtu": 1280,
-            "tag": "HELI|10|Type 0",
+            "tag": "HELI|11|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -387,7 +408,7 @@
                 253
             ],
             "mtu": 1280,
-            "tag": "HELI|11|Type 0",
+            "tag": "HELI|12|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -408,7 +429,7 @@
                 252
             ],
             "mtu": 1280,
-            "tag": "HELI|12|Type 0",
+            "tag": "HELI|13|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -429,7 +450,7 @@
                 21
             ],
             "mtu": 1280,
-            "tag": "HELI|13|Type 0",
+            "tag": "HELI|14|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -450,7 +471,7 @@
                 95
             ],
             "mtu": 1280,
-            "tag": "HELI|14|Type 0",
+            "tag": "HELI|15|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -471,7 +492,7 @@
                 116
             ],
             "mtu": 1280,
-            "tag": "HELI|15|Type 0",
+            "tag": "HELI|16|Type 0",
             "fake_packets": "1-3",
             "fake_packets_size": "1-10",
             "fake_packets_delay": "1-10"
@@ -490,27 +511,6 @@
                 196,
                 231,
                 244
-            ],
-            "mtu": 1280,
-            "tag": "HELI|16|Type 0",
-            "fake_packets": "1-3",
-            "fake_packets_size": "1-10",
-            "fake_packets_delay": "1-10"
-        },
-        {
-            "type": "wireguard",
-            "private_key": "cLtHSSwPSjqp1O9YYX7n56wKf214wP4OEkdFNUmK/kU=",
-            "server": "188.114.99.67",
-            "server_port": 4198,
-            "local_address": [
-                "172.16.0.2/32",
-                "2606:4700:110:8f81:d551:a0:532e:a2b3/128"
-            ],
-            "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-            "reserved": [
-                9,
-                39,
-                91
             ],
             "mtu": 1280,
             "tag": "HELI|17|Type 0",
