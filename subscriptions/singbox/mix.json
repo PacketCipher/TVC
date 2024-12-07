@@ -106,238 +106,228 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST",
-                "🔓 | vless | @v2ray_configs_pool | 6",
-                "🔓 | vless | @ip_cf_config | 4",
-                "🔓 | vless | @canfigv2ray | 3",
-                "🔓 | vless | @ghalagyann | 1",
-                "🔓 | vless | @wxgmrjdcc | 1",
-                "🔓 | vless | @mtproxy_lists | 4",
-                "🔓 | vless | @mtproxy_lists | 3",
-                "🔓 | vless | @vpn_nv1 | 0",
-                "🔓 | vless | @falcunargo | 0",
-                "🔓 | vless | @vmesc | 12",
-                "🔓 | vless | @kanfig_majani | 3",
-                "🔓 | vless | @mehrosaboran | 0",
-                "🔒 | vless | @farahvpn | 7",
-                "🔓 | vless | @vmess_ir | 16",
-                "🔓 | vless | @mtproxy_lists | 2",
-                "🔓 | vless | @v2rayfree | 3",
-                "🔓 | vless | @VmessProtocol | 12",
-                "🔒 | vless | @proxy_mtproto_vpns_free | 5",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 7",
-                "🔒 | vless | @vpn_nv1 | 1",
-                "🔓 | vless | @vmesc | 10",
-                "🔓 | vless | @vmesc | 11",
-                "🔓 | vless | @meli_proxyy | 7",
-                "🔓 | vless | @VmessProtocol | 3",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 4",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 6",
                 "🔓 | vless | @mtproxy_lists | 5",
-                "🔒 | trojan | @privatevpns | 15",
+                "🔓 | vless | @vlessconfig | 6",
+                "🔓 | vless | @ConfigsHUB | 17",
+                "🔓 | vless | @wxgmrjdcc | 1",
+                "🔒 | vless | @entrynet | 3",
+                "🔒 | vless | @farahvpn | 11",
+                "🔓 | vless | @v2rayfree | 3",
+                "🔓 | vless | @proxy_mtproto_vpns_free | 7",
+                "🔒 | vless | @v2rayfree | 5",
+                "🔓 | vless | @new_mtproxi2 | 0",
+                "🔓 | vless | @ghalagyann | 1",
+                "🔓 | vless | @frev2ray | 0",
+                "🔓 | vless | @vmesc | 12",
+                "🔓 | vless | @VmessProtocol | 3",
+                "🔓 | vless | @vlessconfig | 4",
+                "🔓 | vless | @VmessProtocol | 12",
+                "🔓 | vless | @vmesc | 13",
+                "🔓 | vless | @kanfig_majani | 3",
+                "🔓 | vless | @vmesc | 11",
+                "🔓 | vless | @farahvpn | 3",
+                "🔓 | vless | @farahvpn | 6",
+                "🔒 | vless | @v2ray_raha | 5",
+                "🔓 | vless | @vmess_ir | 17",
+                "🔓 | vless | @vlessconfig | 3",
+                "🔓 | vless | @vpnfail_vless | 3",
                 "🔓 | vless | @mtproxy_lists | 7",
-                "🔓 | vless | @vlessconfig | 8",
-                "🔒 | vless | @VmessProtocol | 8",
-                "🔒 | trojan | @privatevpns | 0",
-                "🔓 | vless | @v2rayfree | 1",
-                "🔒 | vless | @VmessProtocol | 0",
-                "🔓 | vless | @vipv2rayngvip | 0",
-                "🔒 | vless | @configv2rayng | 1",
-                "🔓 | vless | @mtproxy_lists | 13",
-                "🔓 | vless | @wxgmrjdcc | 2",
-                "🔓 | vless | @config_proxy | 15",
-                "🔓 | vless | @v2ray_configs_pool | 10",
-                "🔓 | vless | @mtproxy_lists | 12",
-                "🔓 | vless | @ConfigsHUB | 5",
-                "🔓 | vless | @ip_cf_config | 12",
-                "🔓 | vless | @vipv2rayngvip | 1",
-                "🔒 | vless | @v2rayng3 | 2",
-                "🔓 | vless | @v2ray_free_conf | 3",
-                "🔒 | vless | @vipnetmeli | 0",
+                "🔒 | vless | @ConfigsHUB | 19",
+                "🔓 | vless | @v2rayfree | 6",
+                "🔓 | vless | @v2rayfree | 4",
                 "🔓 | vless | @vlessconfig | 1",
-                "🔓 | vless | @vpnowl | 0",
                 "🔒 | trojan | @privatevpns | 1",
-                "🔓 | vless | @v2ryng01 | 1",
-                "🔓 | vless | @vistav2ray | 0",
-                "🔒 | ss | @shadowsockskeys | 15",
-                "🔒 | ss | @shadowsockskeys | 3",
-                "🔒 | vless | @v2ray1_ng | 1",
-                "🔓 | vless | @vlessconfig | 14",
-                "🔓 | vless | @meli_proxyy | 2",
-                "🔒 | ss | @shadowsockskeys | 6",
-                "🔓 | vless | @canfigv2ray | 2",
-                "🔓 | vless | @v2raych | 6",
-                "🔒 | trojan | @DirectVPN | 9",
-                "🔓 | vless | @entrynet | 6",
-                "🔓 | vless | @v2rayng_vpnn | 1",
-                "🔒 | vless | @entrynet | 0",
-                "🔒 | trojan | @privatevpns | 4",
-                "🔓 | vless | @vpnwedbaz | 15",
-                "🔓 | vless | @fhkllvjkll | 10",
-                "🔓 | vless | @fast_2ray | 11",
-                "🔒 | vless | @ev2rayy | 1",
-                "🔓 | vless | @bigsmoke_config | 4",
-                "🔓 | vless | @freevlessvpn | 12",
-                "🔓 | vless | @custom_config | 1",
-                "🔓 | vless | @v2ray_sos | 0",
-                "🔓 | vless | @vpnplusee_free | 1",
-                "🔒 | vless | @alpha_v2ray_fazayi | 2",
-                "🔓 | vless | @uvpn_org | 1",
-                "🔓 | vless | @v2rayland02 | 1",
-                "🔓 | vless | @meli_proxyy | 5",
-                "🔓 | vless | @v2ray666 | 13",
-                "🔓 | vless | @v2ray666 | 0",
-                "🔓 | vless | @kingspeedchanel | 7",
-                "🔓 | vless | @customv2ray | 5",
-                "🔒 | trojan | @DirectVPN | 7",
-                "🔓 | vless | @server_nekobox | 0",
-                "🔓 | vless | @ipV2Ray | 2",
-                "🔓 | vless | @ConfigsHUB | 3",
-                "🔓 | vless | @canfigv2ray | 4",
-                "🔓 | vless | @v2rayng_madam | 0",
-                "🔓 | vless | @fhkllvjkll | 6",
-                "🔓 | vless | @v2ray_sos | 1",
-                "🔒 | trojan | @DirectVPN | 6",
-                "🔓 | vless | @yekoyekvpn | 0",
-                "🔓 | vless | @configt | 1",
-                "🔒 | vless | @v2raych | 5",
-                "🔓 | vless | @configt | 2",
-                "🔓 | vless | @xpnteam | 2",
-                "🔓 | vless | @xpnteam | 1",
-                "🔓 | vless | @cephalon_ala | 0",
-                "🔓 | vless | @farahvpn | 1",
-                "🔓 | vless | @dgkbza | 8",
-                "🔓 | vless | @vpnplusee_free | 0",
-                "🔒 | ss | @kingofilter | 17",
-                "🔒 | trojan | @DirectVPN | 1",
-                "🔒 | ss | @shadowsockskeys | 0",
-                "🔒 | vless | @vpntwitt | 1",
-                "🔒 | vless | @ultrasurf_12 | 0",
-                "🔓 | vless | @config_proxy | 5",
-                "🔓 | vless | @v2safee | 0",
-                "🔓 | vless | @moftinet | 1",
-                "🔓 | vless | @bored_vpn | 0",
-                "🔓 | vless | @kurdistan_vpn_perfectt | 0",
+                "🔒 | vless | @VmessProtocol | 8",
+                "🔓 | vless | @vtworay_wolf | 0",
+                "🔒 | vless | @wxgmrjdcc | 0",
+                "🔓 | vless | @config_proxy | 4",
+                "🔓 | vless | @vipv2rayngvip | 0",
+                "🔓 | vless | @proxy48 | 12",
+                "🔒 | vless | @v2raych | 11",
+                "🔓 | vless | @vipv2rayngvip | 1",
+                "🔒 | vless | @VmessProtocol | 0",
+                "🔒 | vless | @v2ray_ng | 2",
+                "🔒 | vless | @vipnetmeli | 1",
                 "🔒 | trojan | @DirectVPN | 3",
-                "🔒 | vless | @irov2rayn | 0"
+                "🔓 | vless | @vpn_kanfik | 1",
+                "🔓 | vless | @icv2ray | 0",
+                "🔒 | trojan | @DirectVPN | 6",
+                "🔒 | ss | @shadowsockskeys | 3",
+                "🔓 | vless | @v2rayng_city | 0",
+                "🔓 | vless | @mtproxy_lists | 2",
+                "🔓 | vless | @vtworay_wolf | 1",
+                "🔓 | vless | @v2ray_best_iran | 0",
+                "🔒 | vless | @satellitenewspersian | 5",
+                "🔓 | vless | @vpnowl | 0",
+                "🔒 | trojan | @DirectVPN | 2",
+                "🔓 | vless | @ConfigsHUB | 0",
+                "🔒 | ss | @shadowsockskeys | 6",
+                "🔓 | vless | @vlessconfig | 15",
+                "🔓 | vless | @meli_proxyy | 5",
+                "🔓 | vless | @v2ray_configs_pool | 2",
+                "🔓 | vless | @v2rayfr | 1",
+                "🔒 | trojan | @DirectVPN | 10",
+                "🔒 | trojan | @privatevpns | 12",
+                "🔒 | trojan | @privatevpns | 5",
+                "🔒 | vless | @ultrasurf_12 | 0",
+                "🔒 | ss | @shadowsockskeys | 9",
+                "🔓 | vless | @freevlessvpn | 1",
+                "🔓 | vless | @dgkbza | 1",
+                "🔓 | vless | @v2rayng_vpnn | 0",
+                "🔓 | vless | @v2rayng_vpnn | 3",
+                "🔓 | vless | @server_nekobox | 0",
+                "🔒 | vless | @v2aryng_vpn | 1",
+                "🔓 | vless | @kingspeedchanel | 4",
+                "🔓 | vless | @v2ray666 | 0",
+                "🔓 | vless | @v2ray666 | 13",
+                "🔓 | vless | @custom_config | 1",
+                "🔓 | vless | @Parsashonam | 3",
+                "🔒 | ss | @kingofilter | 2",
+                "🔒 | trojan | @DirectVPN | 9",
+                "🔓 | vless | @bored_vpn | 0",
+                "🔓 | vless | @farahvpn | 5",
+                "🔓 | vless | @cephalon_ala | 0",
+                "🔓 | vless | @config_proxy | 23",
+                "🔒 | vless | @alpha_v2ray_fazayi | 2",
+                "🔓 | vless | @fhkllvjkll | 6",
+                "🔒 | vless | @irov2rayn | 1",
+                "🔓 | vless | @wxgmrjdcc | 2",
+                "🔓 | vless | @v2ray_sos | 0",
+                "🔓 | vless | @v2rayng_vpnn | 1",
+                "🔓 | vless | @vpnwedbaz | 15",
+                "🔓 | vless | @xpnteam | 1",
+                "🔓 | vless | @yekoyekvpn | 0",
+                "🔒 | trojan | @privatevpns | 6",
+                "🔒 | trojan | @DirectVPN | 8",
+                "🔓 | vless | @configt | 1",
+                "🔓 | vless | @xpnteam | 2",
+                "🔓 | vless | @vpnplusee_free | 2",
+                "🔓 | vless | @vpnplusee_free | 13",
+                "🔓 | vless | @mv2ray_center | 1",
+                "🔓 | vless | @v2raycrow | 3",
+                "🔓 | vless | @hajimamadvpn | 1",
+                "🔓 | vless | @v2safee | 0",
+                "🔓 | vless | @configt | 2",
+                "🔓 | vless | @hajimamadvpn | 0",
+                "🔓 | vless | @nofiltering2 | 0",
+                "🔓 | vless | @vpnplusee_free | 14",
+                "🔓 | vless | @canfigv2ray | 0",
+                "🔓 | vless | @v2advicr | 0",
+                "🔓 | vless | @arv2ray | 0"
             ]
         },
         {
             "tag": "URL-TEST",
             "type": "urltest",
             "outbounds": [
-                "🔓 | vless | @v2ray_configs_pool | 6",
-                "🔓 | vless | @ip_cf_config | 4",
-                "🔓 | vless | @canfigv2ray | 3",
-                "🔓 | vless | @ghalagyann | 1",
-                "🔓 | vless | @wxgmrjdcc | 1",
-                "🔓 | vless | @mtproxy_lists | 4",
-                "🔓 | vless | @mtproxy_lists | 3",
-                "🔓 | vless | @vpn_nv1 | 0",
-                "🔓 | vless | @falcunargo | 0",
-                "🔓 | vless | @vmesc | 12",
-                "🔓 | vless | @kanfig_majani | 3",
-                "🔓 | vless | @mehrosaboran | 0",
-                "🔒 | vless | @farahvpn | 7",
-                "🔓 | vless | @vmess_ir | 16",
-                "🔓 | vless | @mtproxy_lists | 2",
-                "🔓 | vless | @v2rayfree | 3",
-                "🔓 | vless | @VmessProtocol | 12",
-                "🔒 | vless | @proxy_mtproto_vpns_free | 5",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 7",
-                "🔒 | vless | @vpn_nv1 | 1",
-                "🔓 | vless | @vmesc | 10",
-                "🔓 | vless | @vmesc | 11",
-                "🔓 | vless | @meli_proxyy | 7",
-                "🔓 | vless | @VmessProtocol | 3",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 4",
-                "🔓 | vless | @proxy_mtproto_vpns_free | 6",
                 "🔓 | vless | @mtproxy_lists | 5",
-                "🔒 | trojan | @privatevpns | 15",
+                "🔓 | vless | @vlessconfig | 6",
+                "🔓 | vless | @ConfigsHUB | 17",
+                "🔓 | vless | @wxgmrjdcc | 1",
+                "🔒 | vless | @entrynet | 3",
+                "🔒 | vless | @farahvpn | 11",
+                "🔓 | vless | @v2rayfree | 3",
+                "🔓 | vless | @proxy_mtproto_vpns_free | 7",
+                "🔒 | vless | @v2rayfree | 5",
+                "🔓 | vless | @new_mtproxi2 | 0",
+                "🔓 | vless | @ghalagyann | 1",
+                "🔓 | vless | @frev2ray | 0",
+                "🔓 | vless | @vmesc | 12",
+                "🔓 | vless | @VmessProtocol | 3",
+                "🔓 | vless | @vlessconfig | 4",
+                "🔓 | vless | @VmessProtocol | 12",
+                "🔓 | vless | @vmesc | 13",
+                "🔓 | vless | @kanfig_majani | 3",
+                "🔓 | vless | @vmesc | 11",
+                "🔓 | vless | @farahvpn | 3",
+                "🔓 | vless | @farahvpn | 6",
+                "🔒 | vless | @v2ray_raha | 5",
+                "🔓 | vless | @vmess_ir | 17",
+                "🔓 | vless | @vlessconfig | 3",
+                "🔓 | vless | @vpnfail_vless | 3",
                 "🔓 | vless | @mtproxy_lists | 7",
-                "🔓 | vless | @vlessconfig | 8",
-                "🔒 | vless | @VmessProtocol | 8",
-                "🔒 | trojan | @privatevpns | 0",
-                "🔓 | vless | @v2rayfree | 1",
-                "🔒 | vless | @VmessProtocol | 0",
-                "🔓 | vless | @vipv2rayngvip | 0",
-                "🔒 | vless | @configv2rayng | 1",
-                "🔓 | vless | @mtproxy_lists | 13",
-                "🔓 | vless | @wxgmrjdcc | 2",
-                "🔓 | vless | @config_proxy | 15",
-                "🔓 | vless | @v2ray_configs_pool | 10",
-                "🔓 | vless | @mtproxy_lists | 12",
-                "🔓 | vless | @ConfigsHUB | 5",
-                "🔓 | vless | @ip_cf_config | 12",
-                "🔓 | vless | @vipv2rayngvip | 1",
-                "🔒 | vless | @v2rayng3 | 2",
-                "🔓 | vless | @v2ray_free_conf | 3",
-                "🔒 | vless | @vipnetmeli | 0",
+                "🔒 | vless | @ConfigsHUB | 19",
+                "🔓 | vless | @v2rayfree | 6",
+                "🔓 | vless | @v2rayfree | 4",
                 "🔓 | vless | @vlessconfig | 1",
-                "🔓 | vless | @vpnowl | 0",
                 "🔒 | trojan | @privatevpns | 1",
-                "🔓 | vless | @v2ryng01 | 1",
-                "🔓 | vless | @vistav2ray | 0",
-                "🔒 | ss | @shadowsockskeys | 15",
-                "🔒 | ss | @shadowsockskeys | 3",
-                "🔒 | vless | @v2ray1_ng | 1",
-                "🔓 | vless | @vlessconfig | 14",
-                "🔓 | vless | @meli_proxyy | 2",
-                "🔒 | ss | @shadowsockskeys | 6",
-                "🔓 | vless | @canfigv2ray | 2",
-                "🔓 | vless | @v2raych | 6",
-                "🔒 | trojan | @DirectVPN | 9",
-                "🔓 | vless | @entrynet | 6",
-                "🔓 | vless | @v2rayng_vpnn | 1",
-                "🔒 | vless | @entrynet | 0",
-                "🔒 | trojan | @privatevpns | 4",
-                "🔓 | vless | @vpnwedbaz | 15",
-                "🔓 | vless | @fhkllvjkll | 10",
-                "🔓 | vless | @fast_2ray | 11",
-                "🔒 | vless | @ev2rayy | 1",
-                "🔓 | vless | @bigsmoke_config | 4",
-                "🔓 | vless | @freevlessvpn | 12",
-                "🔓 | vless | @custom_config | 1",
-                "🔓 | vless | @v2ray_sos | 0",
-                "🔓 | vless | @vpnplusee_free | 1",
-                "🔒 | vless | @alpha_v2ray_fazayi | 2",
-                "🔓 | vless | @uvpn_org | 1",
-                "🔓 | vless | @v2rayland02 | 1",
-                "🔓 | vless | @meli_proxyy | 5",
-                "🔓 | vless | @v2ray666 | 13",
-                "🔓 | vless | @v2ray666 | 0",
-                "🔓 | vless | @kingspeedchanel | 7",
-                "🔓 | vless | @customv2ray | 5",
-                "🔒 | trojan | @DirectVPN | 7",
-                "🔓 | vless | @server_nekobox | 0",
-                "🔓 | vless | @ipV2Ray | 2",
-                "🔓 | vless | @ConfigsHUB | 3",
-                "🔓 | vless | @canfigv2ray | 4",
-                "🔓 | vless | @v2rayng_madam | 0",
-                "🔓 | vless | @fhkllvjkll | 6",
-                "🔓 | vless | @v2ray_sos | 1",
-                "🔒 | trojan | @DirectVPN | 6",
-                "🔓 | vless | @yekoyekvpn | 0",
-                "🔓 | vless | @configt | 1",
-                "🔒 | vless | @v2raych | 5",
-                "🔓 | vless | @configt | 2",
-                "🔓 | vless | @xpnteam | 2",
-                "🔓 | vless | @xpnteam | 1",
-                "🔓 | vless | @cephalon_ala | 0",
-                "🔓 | vless | @farahvpn | 1",
-                "🔓 | vless | @dgkbza | 8",
-                "🔓 | vless | @vpnplusee_free | 0",
-                "🔒 | ss | @kingofilter | 17",
-                "🔒 | trojan | @DirectVPN | 1",
-                "🔒 | ss | @shadowsockskeys | 0",
-                "🔒 | vless | @vpntwitt | 1",
-                "🔒 | vless | @ultrasurf_12 | 0",
-                "🔓 | vless | @config_proxy | 5",
-                "🔓 | vless | @v2safee | 0",
-                "🔓 | vless | @moftinet | 1",
-                "🔓 | vless | @bored_vpn | 0",
-                "🔓 | vless | @kurdistan_vpn_perfectt | 0",
+                "🔒 | vless | @VmessProtocol | 8",
+                "🔓 | vless | @vtworay_wolf | 0",
+                "🔒 | vless | @wxgmrjdcc | 0",
+                "🔓 | vless | @config_proxy | 4",
+                "🔓 | vless | @vipv2rayngvip | 0",
+                "🔓 | vless | @proxy48 | 12",
+                "🔒 | vless | @v2raych | 11",
+                "🔓 | vless | @vipv2rayngvip | 1",
+                "🔒 | vless | @VmessProtocol | 0",
+                "🔒 | vless | @v2ray_ng | 2",
+                "🔒 | vless | @vipnetmeli | 1",
                 "🔒 | trojan | @DirectVPN | 3",
-                "🔒 | vless | @irov2rayn | 0"
+                "🔓 | vless | @vpn_kanfik | 1",
+                "🔓 | vless | @icv2ray | 0",
+                "🔒 | trojan | @DirectVPN | 6",
+                "🔒 | ss | @shadowsockskeys | 3",
+                "🔓 | vless | @v2rayng_city | 0",
+                "🔓 | vless | @mtproxy_lists | 2",
+                "🔓 | vless | @vtworay_wolf | 1",
+                "🔓 | vless | @v2ray_best_iran | 0",
+                "🔒 | vless | @satellitenewspersian | 5",
+                "🔓 | vless | @vpnowl | 0",
+                "🔒 | trojan | @DirectVPN | 2",
+                "🔓 | vless | @ConfigsHUB | 0",
+                "🔒 | ss | @shadowsockskeys | 6",
+                "🔓 | vless | @vlessconfig | 15",
+                "🔓 | vless | @meli_proxyy | 5",
+                "🔓 | vless | @v2ray_configs_pool | 2",
+                "🔓 | vless | @v2rayfr | 1",
+                "🔒 | trojan | @DirectVPN | 10",
+                "🔒 | trojan | @privatevpns | 12",
+                "🔒 | trojan | @privatevpns | 5",
+                "🔒 | vless | @ultrasurf_12 | 0",
+                "🔒 | ss | @shadowsockskeys | 9",
+                "🔓 | vless | @freevlessvpn | 1",
+                "🔓 | vless | @dgkbza | 1",
+                "🔓 | vless | @v2rayng_vpnn | 0",
+                "🔓 | vless | @v2rayng_vpnn | 3",
+                "🔓 | vless | @server_nekobox | 0",
+                "🔒 | vless | @v2aryng_vpn | 1",
+                "🔓 | vless | @kingspeedchanel | 4",
+                "🔓 | vless | @v2ray666 | 0",
+                "🔓 | vless | @v2ray666 | 13",
+                "🔓 | vless | @custom_config | 1",
+                "🔓 | vless | @Parsashonam | 3",
+                "🔒 | ss | @kingofilter | 2",
+                "🔒 | trojan | @DirectVPN | 9",
+                "🔓 | vless | @bored_vpn | 0",
+                "🔓 | vless | @farahvpn | 5",
+                "🔓 | vless | @cephalon_ala | 0",
+                "🔓 | vless | @config_proxy | 23",
+                "🔒 | vless | @alpha_v2ray_fazayi | 2",
+                "🔓 | vless | @fhkllvjkll | 6",
+                "🔒 | vless | @irov2rayn | 1",
+                "🔓 | vless | @wxgmrjdcc | 2",
+                "🔓 | vless | @v2ray_sos | 0",
+                "🔓 | vless | @v2rayng_vpnn | 1",
+                "🔓 | vless | @vpnwedbaz | 15",
+                "🔓 | vless | @xpnteam | 1",
+                "🔓 | vless | @yekoyekvpn | 0",
+                "🔒 | trojan | @privatevpns | 6",
+                "🔒 | trojan | @DirectVPN | 8",
+                "🔓 | vless | @configt | 1",
+                "🔓 | vless | @xpnteam | 2",
+                "🔓 | vless | @vpnplusee_free | 2",
+                "🔓 | vless | @vpnplusee_free | 13",
+                "🔓 | vless | @mv2ray_center | 1",
+                "🔓 | vless | @v2raycrow | 3",
+                "🔓 | vless | @hajimamadvpn | 1",
+                "🔓 | vless | @v2safee | 0",
+                "🔓 | vless | @configt | 2",
+                "🔓 | vless | @hajimamadvpn | 0",
+                "🔓 | vless | @nofiltering2 | 0",
+                "🔓 | vless | @vpnplusee_free | 14",
+                "🔓 | vless | @canfigv2ray | 0",
+                "🔓 | vless | @v2advicr | 0",
+                "🔓 | vless | @arv2ray | 0"
             ],
             "url": "http:\/\/cp.cloudflare.com",
             "interval": "3m",
@@ -360,11 +350,11 @@
             "type": "dns"
         },
         {
-            "tag": "🔓 | vless | @v2ray_configs_pool | 6",
+            "tag": "🔓 | vless | @mtproxy_lists | 5",
             "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "b9509f1d-fed1-49bd-acd4-038ad13c81e7",
+            "server": "107.21.113.57",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -374,7 +364,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "86278058785885367257976103254902.v2line.net",
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -384,18 +374,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/v2line-chicago-unitedstates-vl-ws-tls-advanced",
+                "path": "\/telegram-channel-vlessconfig-ws",
                 "headers": {
-                    "Host": "86278058785885367257976103254902.v2line.net"
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @ip_cf_config | 4",
+            "tag": "🔓 | vless | @vlessconfig | 6",
             "type": "vless",
-            "server": "162.159.152.2",
-            "server_port": 80,
-            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
+            "server": "44.218.5.160",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -403,16 +393,26 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/xmlrpc.php?ed=1080",
+                "path": "\/telegram-channel-vlessconfig-ws",
                 "headers": {
-                    "Host": "162.159.152.2"
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @canfigv2ray | 3",
+            "tag": "🔓 | vless | @ConfigsHUB | 17",
             "type": "vless",
             "server": "69.84.182.101",
             "server_port": 443,
@@ -439,27 +439,6 @@
                 "path": "\/youlingkaishi",
                 "headers": {
                     "Host": "vbbb.ylks2024.us.kg"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @ghalagyann | 1",
-            "type": "vless",
-            "server": "join.VPNCUSTOMIZE.com",
-            "server_port": 80,
-            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/xmlrpc.php?ed=1080",
-                "headers": {
-                    "Host": "join.VPNCUSTOMIZE.com"
                 }
             }
         },
@@ -495,11 +474,11 @@
             }
         },
         {
-            "tag": "🔓 | vless | @mtproxy_lists | 4",
+            "tag": "🔒 | vless | @entrynet | 3",
             "type": "vless",
-            "server": "44.218.5.160",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "server": "151.101.130.228",
+            "server_port": 443,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -509,7 +488,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "server_name": "hajlab.ucdavis.edu",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -519,18 +498,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
+                "path": "\/",
                 "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @mtproxy_lists | 3",
+            "tag": "🔒 | vless | @farahvpn | 11",
             "type": "vless",
-            "server": "107.21.113.57",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -540,7 +519,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "server_name": "hajlab.ucdavis.edu",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -550,14 +529,87 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
+                "path": "\/",
                 "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @vpn_nv1 | 0",
+            "tag": "🔓 | vless | @v2rayfree | 3",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @proxy_mtproto_vpns_free | 7",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | vless | @v2rayfree | 5",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @new_mtproxi2 | 0",
             "type": "vless",
             "server": "join.VPNCUSTOMIZE.com",
             "server_port": 80,
@@ -578,7 +630,28 @@
             }
         },
         {
-            "tag": "🔓 | vless | @falcunargo | 0",
+            "tag": "🔓 | vless | @ghalagyann | 1",
+            "type": "vless",
+            "server": "join.VPNCUSTOMIZE.com",
+            "server_port": 80,
+            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/xmlrpc.php?ed=1080",
+                "headers": {
+                    "Host": "join.VPNCUSTOMIZE.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @frev2ray | 0",
             "type": "vless",
             "server": "join.VPNCUSTOMIZE.com",
             "server_port": 80,
@@ -600,6 +673,130 @@
         },
         {
             "tag": "🔓 | vless | @vmesc | 12",
+            "type": "vless",
+            "server": "104.19.130.18",
+            "server_port": 8443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "V2.YUNcHUN.tOp",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/hKmxcETc75oYOT0c\/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560",
+                "headers": {
+                    "Host": "V2.YUNcHUN.tOp"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @VmessProtocol | 3",
+            "type": "vless",
+            "server": "www.gov.se",
+            "server_port": 443,
+            "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "2-gd65fd.hc2021.cfd",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "2-gd65fd.hc2021.cfd"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vlessconfig | 4",
+            "type": "vless",
+            "server": "15.157.160.136",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @VmessProtocol | 12",
+            "type": "vless",
+            "server": "104.19.130.18",
+            "server_port": 2053,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "V2.yUNCHuN.TOp",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/EIoLkN7aqclDu6kP\/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560",
+                "headers": {
+                    "Host": "V2.yUNCHuN.TOp"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vmesc | 13",
             "type": "vless",
             "server": "104.21.85.105",
             "server_port": 2087,
@@ -661,254 +858,7 @@
             }
         },
         {
-            "tag": "🔓 | vless | @mehrosaboran | 0",
-            "type": "vless",
-            "server": "visa.org",
-            "server_port": 80,
-            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/xmlrpc.php?ed=1080",
-                "headers": {
-                    "Host": "visa.org"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @farahvpn | 7",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vmess_ir | 16",
-            "type": "vless",
-            "server": "104.21.85.105",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "v2.yUnChUN.ToP",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/dhqawlzx06akndx3\/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560",
-                "headers": {
-                    "Host": "v2.yUnChUN.ToP"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @mtproxy_lists | 2",
-            "type": "vless",
-            "server": "15.157.160.136",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2rayfree | 3",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @VmessProtocol | 12",
-            "type": "vless",
-            "server": "104.19.130.18",
-            "server_port": 2053,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "V2.yUNCHuN.TOp",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/EIoLkN7aqclDu6kP\/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560",
-                "headers": {
-                    "Host": "V2.yUNCHuN.TOp"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @proxy_mtproto_vpns_free | 5",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @proxy_mtproto_vpns_free | 7",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @vpn_nv1 | 1",
-            "type": "vless",
-            "server": "cdnplus31.mandirectdom.shop",
-            "server_port": 80,
-            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zula.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
-                    "short_id": "94aa1bdc"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vmesc | 10",
+            "tag": "🔓 | vless | @vmesc | 11",
             "type": "vless",
             "server": "104.19.130.18",
             "server_port": 2083,
@@ -939,10 +889,10 @@
             }
         },
         {
-            "tag": "🔓 | vless | @vmesc | 11",
+            "tag": "🔓 | vless | @farahvpn | 3",
             "type": "vless",
-            "server": "104.19.130.18",
-            "server_port": 8443,
+            "server": "104.21.85.105",
+            "server_port": 443,
             "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
             "flow": "",
             "packet_encoding": "xudp",
@@ -953,7 +903,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "V2.YUNcHUN.tOp",
+                "server_name": "v2.yunCHUn.toP",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -963,18 +913,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/hKmxcETc75oYOT0c\/YnBiLnlvdXNlZi5pc2VnYXJvLmNvbQ==?ed=2560",
+                "path": "\/f0taij0njqobq4qi\/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560",
                 "headers": {
-                    "Host": "V2.YUNcHUN.tOp"
+                    "Host": "v2.yunCHUn.toP"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @meli_proxyy | 7",
+            "tag": "🔓 | vless | @farahvpn | 6",
             "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "b9509f1d-fed1-49bd-acd4-038ad13c81e7",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -982,19 +932,120 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
+            "tls": {
+                "enabled": true,
+                "server_name": "86278058785885367257976103254902.v2line.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/v2line-chicago-unitedstates-vl-ws-tls-advanced",
                 "headers": {
-                    "Host": "hajlab.ucdavis.edu"
+                    "Host": "86278058785885367257976103254902.v2line.net"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @VmessProtocol | 3",
+            "tag": "🔒 | vless | @v2ray_raha | 5",
             "type": "vless",
-            "server": "www.gov.se",
+            "server": "cdnplus31.mandirectdom.shop",
+            "server_port": 80,
+            "uuid": "ef27e62d-91bd-4676-b9ce-8743a73eda07",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zula.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU",
+                    "short_id": "94aa1bdc"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vmess_ir | 17",
+            "type": "vless",
+            "server": "104.21.85.105",
             "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "v2.yUnChUN.ToP",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/dhqawlzx06akndx3\/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560",
+                "headers": {
+                    "Host": "v2.yUnChUN.ToP"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vlessconfig | 3",
+            "type": "vless",
+            "server": "99.79.108.237",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpnfail_vless | 3",
+            "type": "vless",
+            "server": "www.gov.ua",
+            "server_port": 2096,
             "uuid": "59860b15-b2d9-47f9-9b92-81bd1639fcc5",
             "flow": "",
             "packet_encoding": "xudp",
@@ -1022,49 +1073,7 @@
             }
         },
         {
-            "tag": "🔓 | vless | @proxy_mtproto_vpns_free | 4",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @proxy_mtproto_vpns_free | 6",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 80,
-            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @mtproxy_lists | 5",
+            "tag": "🔓 | vless | @mtproxy_lists | 7",
             "type": "vless",
             "server": "52.48.178.49",
             "server_port": 22222,
@@ -1095,9 +1104,111 @@
             }
         },
         {
-            "tag": "🔒 | trojan | @privatevpns | 15",
+            "tag": "🔒 | vless | @ConfigsHUB | 19",
+            "type": "vless",
+            "server": "107.172.57.21",
+            "server_port": 443,
+            "uuid": "e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "osxapps.itunes.apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss",
+                    "short_id": "5b6fd34e"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2rayfree | 6",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2rayfree | 4",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 80,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vlessconfig | 1",
+            "type": "vless",
+            "server": "35.180.183.176",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | trojan | @privatevpns | 1",
             "type": "trojan",
-            "server": "34.250.181.138",
+            "server": "52.47.199.255",
             "server_port": 22222,
             "password": "telegram-id-privatevpns",
             "multiplex": {
@@ -1113,68 +1224,6 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @mtproxy_lists | 7",
-            "type": "vless",
-            "server": "13.43.196.84",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vlessconfig | 8",
-            "type": "vless",
-            "server": "52.56.223.88",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
                 }
             }
         },
@@ -1208,11 +1257,13 @@
             }
         },
         {
-            "tag": "🔒 | trojan | @privatevpns | 0",
-            "type": "trojan",
-            "server": "15.237.230.200",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "tag": "🔓 | vless | @vtworay_wolf | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "357027be-f167-41c3-a878-aa64f6284761",
+            "flow": "",
+            "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1220,21 +1271,154 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "12863995741163367406554084809141.v2line.net",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/v2line-paris-france-vl-ws-tls-advanced",
+                "headers": {
+                    "Host": "12863995741163367406554084809141.v2line.net"
+                }
             }
         },
         {
-            "tag": "🔓 | vless | @v2rayfree | 1",
+            "tag": "🔒 | vless | @wxgmrjdcc | 0",
             "type": "vless",
-            "server": "45.81.35.6",
-            "server_port": 8080,
-            "uuid": "2fb4ff3e-664c-48d1-81c5-e64b1b5905f6",
+            "server": "172.236.219.222",
+            "server_port": 443,
+            "uuid": "03d6f0a4-f95c-4371-ba4d-798de3351517",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "miro.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "random"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "8hmvzu0EsZGVOTmYxf1vHaFnARo41R2ns6pNM5qYjkg",
+                    "short_id": "7ac5fd8745"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @config_proxy | 4",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "65364f16-a80d-4879-a22a-fdb81340d0c2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "54153597949886727526628702092980.v2line.net",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/v2line-amsterdam-netherlands-vl-ws-tls-advanced",
+                "headers": {
+                    "Host": "54153597949886727526628702092980.v2line.net"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vipv2rayngvip | 0",
+            "type": "vless",
+            "server": "157.230.20.98",
+            "server_port": 14628,
+            "uuid": "625248a1-f20e-44f1-a32f-977c19b812a7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🔓 | vless | @proxy48 | 12",
+            "type": "vless",
+            "server": "51.75.30.8",
+            "server_port": 80,
+            "uuid": "1949f066-bcb0-49be-88e9-74abd940f80e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/http",
+                "headers": {
+                    "Host": "51.75.30.8"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | vless | @v2raych | 11",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "5e1ccc49-5a88-46ad-88d9-ccff2bf0abd5",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vipv2rayngvip | 1",
+            "type": "vless",
+            "server": "157.230.20.98",
+            "server_port": 14628,
+            "uuid": "8456babd-3b6e-4127-af39-e4cb8edda48f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1273,11 +1457,173 @@
             }
         },
         {
-            "tag": "🔓 | vless | @vipv2rayngvip | 0",
+            "tag": "🔒 | vless | @v2ray_ng | 2",
             "type": "vless",
-            "server": "157.230.20.98",
-            "server_port": 14628,
-            "uuid": "625248a1-f20e-44f1-a32f-977c19b812a7",
+            "server": "128.140.35.236",
+            "server_port": 50713,
+            "uuid": "dab8ab46-5071-4d95-ac9b-bb469d6599fc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nobitex.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY",
+                    "short_id": "88417bc4"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | vless | @vipnetmeli | 1",
+            "type": "vless",
+            "server": "128.140.35.236",
+            "server_port": 50713,
+            "uuid": "dab8ab46-5071-4d95-ac9b-bb469d6599fc",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "nobitex.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY",
+                    "short_id": "88417bc4"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | trojan | @DirectVPN | 3",
+            "type": "trojan",
+            "server": "15.157.245.45",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpn_kanfik | 1",
+            "type": "vless",
+            "server": "san.dornagamesco.ir",
+            "server_port": 1621,
+            "uuid": "738fbb8d-bd2d-402a-b7bc-e63ad84fb107",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "wwww.refersion.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
+                    "short_id": "3a622700e73c6642"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @icv2ray | 0",
+            "type": "vless",
+            "server": "visa.org",
+            "server_port": 80,
+            "uuid": "dfc1a9ab-6241-4b73-92f7-b299fc6b7751",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/xmlrpc.php?ed=1080",
+                "headers": {
+                    "Host": "visa.org"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | trojan | @DirectVPN | 6",
+            "type": "trojan",
+            "server": "52.213.121.51",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | ss | @shadowsockskeys | 3",
+            "type": "shadowsocks",
+            "server": "5.182.38.211",
+            "server_port": 42658,
+            "method": "chacha20-ietf-poly1305",
+            "password": "6W3KNlsw77BkOmhv36B76iKeOzNiECcO1qvmpvP2yTXCuODvctTKgRTNqc5dPRLY",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🔓 | vless | @v2rayng_city | 0",
+            "type": "vless",
+            "server": "network.minecraftcity1.ir",
+            "server_port": 9595,
+            "uuid": "a54fcf91-c5a8-4c8e-a80f-050816f5ad3a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -1287,7 +1633,73 @@
             }
         },
         {
-            "tag": "🔒 | vless | @configv2rayng | 1",
+            "tag": "🔓 | vless | @mtproxy_lists | 2",
+            "type": "vless",
+            "server": "35.180.215.94",
+            "server_port": 22222,
+            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "telegram-channel-vlessconfig.sohala.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-channel-vlessconfig-ws",
+                "headers": {
+                    "Host": "telegram-channel-vlessconfig.sohala.uk"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vtworay_wolf | 1",
+            "type": "vless",
+            "server": "199.232.8.123",
+            "server_port": 80,
+            "uuid": "d578322a-266b-479d-9eda-f1b41324e721",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/RsAMasAPMX5yb1YZ?ed=2560",
+                "headers": {
+                    "Host": "199.232.8.123"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2ray_best_iran | 0",
+            "type": "vless",
+            "server": "bestco.bestshop10.ir",
+            "server_port": 40240,
+            "uuid": "e44d1746-370c-4b3d-a955-3020d2a4bf6c",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🔒 | vless | @satellitenewspersian | 5",
             "type": "vless",
             "server": "89.187.169.71",
             "server_port": 443,
@@ -1312,296 +1724,6 @@
                     "enabled": true,
                     "public_key": "B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g",
                     "short_id": "01b200e90e250221"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @mtproxy_lists | 13",
-            "type": "vless",
-            "server": "18.185.231.252",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @wxgmrjdcc | 2",
-            "type": "vless",
-            "server": "157.230.20.98",
-            "server_port": 14628,
-            "uuid": "8456babd-3b6e-4127-af39-e4cb8edda48f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🔓 | vless | @config_proxy | 15",
-            "type": "vless",
-            "server": "51.75.30.8",
-            "server_port": 80,
-            "uuid": "1949f066-bcb0-49be-88e9-74abd940f80e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/http",
-                "headers": {
-                    "Host": "51.75.30.8"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2ray_configs_pool | 10",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "f848942f-30f1-446e-a546-7c500facce27",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "31451350071858616668266749896909.v2line.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/v2line-frankfurt-germany-vl-ws-tls-advanced",
-                "headers": {
-                    "Host": "31451350071858616668266749896909.v2line.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @mtproxy_lists | 12",
-            "type": "vless",
-            "server": "18.197.110.108",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @ConfigsHUB | 5",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "357027be-f167-41c3-a878-aa64f6284761",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "12863995741163367406554084809141.v2line.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/v2line-paris-france-vl-ws-tls-advanced",
-                "headers": {
-                    "Host": "12863995741163367406554084809141.v2line.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @ip_cf_config | 12",
-            "type": "vless",
-            "server": "51.81.186.36",
-            "server_port": 443,
-            "uuid": "c7e4f8b3-6f1c-40b6-bdd9-7fdabe65821e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vipv2rayngvip | 1",
-            "type": "vless",
-            "server": "157.230.20.98",
-            "server_port": 14628,
-            "uuid": "8456babd-3b6e-4127-af39-e4cb8edda48f",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🔒 | vless | @v2rayng3 | 2",
-            "type": "vless",
-            "server": "128.140.35.236",
-            "server_port": 50713,
-            "uuid": "dab8ab46-5071-4d95-ac9b-bb469d6599fc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nobitex.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY",
-                    "short_id": "88417bc4"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2ray_free_conf | 3",
-            "type": "vless",
-            "server": "128.140.35.236",
-            "server_port": 30788,
-            "uuid": "5b3bbba7-828a-4246-bb58-6c1b509383d6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🔒 | vless | @vipnetmeli | 0",
-            "type": "vless",
-            "server": "128.140.35.236",
-            "server_port": 50713,
-            "uuid": "dab8ab46-5071-4d95-ac9b-bb469d6599fc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "nobitex.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY",
-                    "short_id": "88417bc4"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vlessconfig | 1",
-            "type": "vless",
-            "server": "99.79.108.237",
-            "server_port": 22222,
-            "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "telegram-channel-vlessconfig.sohala.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-channel-vlessconfig-ws",
-                "headers": {
-                    "Host": "telegram-channel-vlessconfig.sohala.uk"
                 }
             }
         },
@@ -1642,11 +1764,11 @@
             }
         },
         {
-            "tag": "🔒 | trojan | @privatevpns | 1",
+            "tag": "🔒 | trojan | @DirectVPN | 2",
             "type": "trojan",
-            "server": "63.176.232.107",
+            "server": "3.128.185.122",
             "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -1664,110 +1786,33 @@
             }
         },
         {
-            "tag": "🔓 | vless | @v2ryng01 | 1",
+            "tag": "🔓 | vless | @ConfigsHUB | 0",
             "type": "vless",
-            "server": "mahdi.varzesh3.ru",
-            "server_port": 443,
-            "uuid": "ce3c4876-c3a4-408b-bf69-7f19097cd37a",
+            "server": "116.203.201.23",
+            "server_port": 9595,
+            "uuid": "a54fcf91-c5a8-4c8e-a80f-050816f5ad3a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01__v2ryNG01___v2ryNG01____v2ryNG01__v2ryNG01___v2ryNG01",
-                "headers": {
-                    "Host": "mahdi.varzesh3.ru"
-                }
             }
         },
         {
-            "tag": "🔓 | vless | @vistav2ray | 0",
-            "type": "vless",
-            "server": "hajlab.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "bc52bab3-0719-43a9-b9a5-f166a2cdb5c6",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vist",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | ss | @shadowsockskeys | 15",
+            "tag": "🔒 | ss | @shadowsockskeys | 6",
             "type": "shadowsocks",
-            "server": "46.246.98.155",
-            "server_port": 44013,
+            "server": "51.13.114.93",
+            "server_port": 62004,
             "method": "chacha20-ietf-poly1305",
-            "password": "UDcjYQ6Z6AIWxViZpqyOmO",
+            "password": "A8WnUKGDfhssvapELnQRSn",
             "plugin": "",
             "plugin_opts": ""
         },
         {
-            "tag": "🔒 | ss | @shadowsockskeys | 3",
-            "type": "shadowsocks",
-            "server": "5.182.38.211",
-            "server_port": 42658,
-            "method": "chacha20-ietf-poly1305",
-            "password": "6W3KNlsw77BkOmhv36B76iKeOzNiECcO1qvmpvP2yTXCuODvctTKgRTNqc5dPRLY",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🔒 | vless | @v2ray1_ng | 1",
+            "tag": "🔓 | vless | @vlessconfig | 15",
             "type": "vless",
-            "server": "osi.dornagamesco.ir",
-            "server_port": 1620,
-            "uuid": "738fbb8d-bd2d-402a-b7bc-e63ad84fb107",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0",
-                    "short_id": "3a622700e73c6642"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vlessconfig | 14",
-            "type": "vless",
-            "server": "16.16.23.145",
+            "server": "16.16.131.139",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -1796,547 +1841,6 @@
             }
         },
         {
-            "tag": "🔓 | vless | @meli_proxyy | 2",
-            "type": "vless",
-            "server": "199.232.8.123",
-            "server_port": 80,
-            "uuid": "d578322a-266b-479d-9eda-f1b41324e721",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/RsAMasAPMX5yb1YZ?ed=2560",
-                "headers": {
-                    "Host": "199.232.8.123"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | ss | @shadowsockskeys | 6",
-            "type": "shadowsocks",
-            "server": "51.13.114.93",
-            "server_port": 62004,
-            "method": "chacha20-ietf-poly1305",
-            "password": "A8WnUKGDfhssvapELnQRSn",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🔓 | vless | @canfigv2ray | 2",
-            "type": "vless",
-            "server": "zula.ir",
-            "server_port": 2096,
-            "uuid": "cc41cc16-11a0-4bc8-8580-356cc0da1917",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mn.aftabe12.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Tel:@NT_Safe",
-                "headers": {
-                    "Host": "mn.aftabe12.ir"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2raych | 6",
-            "type": "vless",
-            "server": "5.181.23.116",
-            "server_port": 7777,
-            "uuid": "world",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "5.181.23.116"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | trojan | @DirectVPN | 9",
-            "type": "trojan",
-            "server": "13.37.35.58",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @entrynet | 6",
-            "type": "vless",
-            "server": "116.203.201.23",
-            "server_port": 9595,
-            "uuid": "a54fcf91-c5a8-4c8e-a80f-050816f5ad3a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2rayng_vpnn | 1",
-            "type": "vless",
-            "server": "clud.aftabe12.ir",
-            "server_port": 2096,
-            "uuid": "cc41cc16-11a0-4bc8-8580-356cc0da1917",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mn.aftabe12.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Tel:@NT_Safe",
-                "headers": {
-                    "Host": "mn.aftabe12.ir"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @entrynet | 0",
-            "type": "vless",
-            "server": "172.67.204.84",
-            "server_port": 2096,
-            "uuid": "cc41cc16-11a0-4bc8-8580-356cc0da1917",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mn.aftabe12.ir",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Tel:@NT_Safe",
-                "headers": {
-                    "Host": "mn.aftabe12.ir"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | trojan | @privatevpns | 4",
-            "type": "trojan",
-            "server": "16.16.140.180",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vpnwedbaz | 15",
-            "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mio.splashthat.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "mio.splashthat.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @fhkllvjkll | 10",
-            "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mio.splashthat.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "mio.splashthat.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @fast_2ray | 11",
-            "type": "vless",
-            "server": "162.19.228.119",
-            "server_port": 80,
-            "uuid": "dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/http",
-                "headers": {
-                    "Host": "162.19.228.119"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @ev2rayy | 1",
-            "type": "vless",
-            "server": "65.109.199.60",
-            "server_port": 45187,
-            "uuid": "324318a5-2823-421d-b282-c1fd469d5939",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "nko9VHbKvB3ZxWUguFPQjhoXikGfUV22Fmf2dmUKw38",
-                    "short_id": "ac9b"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @bigsmoke_config | 4",
-            "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 443,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "mio.splashthat.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
-                "headers": {
-                    "Host": "mio.splashthat.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @freevlessvpn | 12",
-            "type": "vless",
-            "server": "ergwork.web.unc.edu",
-            "server_port": 443,
-            "uuid": "3fecfaf1-02c1-436d-83b2-d43ddd82fd59",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ergwork.web.unc.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn",
-                "headers": {
-                    "Host": "ergwork.web.unc.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @custom_config | 1",
-            "type": "vless",
-            "server": "151.101.194.133",
-            "server_port": 80,
-            "uuid": "69bf063b-967b-40e5-b184-38ff3bb8cac7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@custom_config?ed=2056",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2ray_sos | 0",
-            "type": "vless",
-            "server": "zmaoz.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "Joinn--ZEDMODEON",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "zmaoz.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON",
-                "headers": {
-                    "Host": "zmaoz.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vpnplusee_free | 1",
-            "type": "vless",
-            "server": "NUFiLTER.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "2e89e747b0c9bb37ad2ba5d8abb966c7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
-                "headers": {
-                    "Host": "NUFiLTER.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @alpha_v2ray_fazayi | 2",
-            "type": "vless",
-            "server": "45.12.134.129",
-            "server_port": 2053,
-            "uuid": "5957ca33-d8d9-4c2c-aadc-203270e33422",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "apple.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg",
-                    "short_id": "cc87"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @uvpn_org | 1",
-            "type": "vless",
-            "server": "Zmaoz.Faculty.Ucdavis.Edu",
-            "server_port": 443,
-            "uuid": "8dfc8efb-d126-442c-9339-a4a6b0c0493c",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Parsashonam,@ParsashonamBots,@Parsashonam_Bot\/ws\/?ed=2560",
-                "headers": {
-                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2rayland02 | 1",
-            "type": "vless",
-            "server": "live.989bull.com",
-            "server_port": 443,
-            "uuid": "SAVTEAM7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.989bull.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443",
-                "headers": {
-                    "Host": "live.989bull.com"
-                }
-            }
-        },
-        {
             "tag": "🔓 | vless | @meli_proxyy | 5",
             "type": "vless",
             "server": "uk.fastly80-2.hosting-ip.com",
@@ -2358,268 +1862,21 @@
             }
         },
         {
-            "tag": "🔓 | vless | @v2ray666 | 13",
+            "tag": "🔓 | vless | @v2ray_configs_pool | 2",
             "type": "vless",
-            "server": "ergwork.web.unc.edu",
-            "server_port": 443,
-            "uuid": "6ed33609-241b-44e5-be23-2567fd1b96f0",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ergwork.web.unc.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws\/?ed=2052",
-                "headers": {
-                    "Host": "ergwork.web.unc.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2ray666 | 0",
-            "type": "vless",
-            "server": "ergwork.web.unc.edu",
-            "server_port": 443,
-            "uuid": "c07f9efe-e0e4-413b-ab43-f84548686c0e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "ergwork.web.unc.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/ws\/?ed=2052",
-                "headers": {
-                    "Host": "ergwork.web.unc.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @kingspeedchanel | 7",
-            "type": "vless",
-            "server": "bwdraper.faculty.ucdavis.edu",
-            "server_port": 443,
-            "uuid": "022404e1-6083-48e1-beee-9048dda539bc",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "bwdraper.faculty.ucdavis.edu",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/?ed=1024",
-                "headers": {
-                    "Host": "bwdraper.faculty.ucdavis.edu"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @customv2ray | 5",
-            "type": "vless",
-            "server": "live.989bull.com",
-            "server_port": 443,
-            "uuid": "SAVTEAM7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.989bull.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443",
-                "headers": {
-                    "Host": "live.989bull.com"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | trojan | @DirectVPN | 7",
-            "type": "trojan",
-            "server": "3.9.203.99",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @server_nekobox | 0",
-            "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "45.81.35.6",
             "server_port": 8080,
-            "uuid": "1150cc8d-2545-4156-b66d-b394f9d515bd",
+            "uuid": "2fb4ff3e-664c-48d1-81c5-e64b1b5905f6",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray?ed=8880",
-                "headers": {
-                    "Host": "www.speedtest.net"
-                }
             }
         },
         {
-            "tag": "🔓 | vless | @ipV2Ray | 2",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "b7b5990f-cd48-45ad-b1d9-ce88b5010961",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @ConfigsHUB | 3",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 443,
-            "uuid": "65364f16-a80d-4879-a22a-fdb81340d0c2",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "54153597949886727526628702092980.v2line.net",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/v2line-amsterdam-netherlands-vl-ws-tls-advanced",
-                "headers": {
-                    "Host": "54153597949886727526628702092980.v2line.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @canfigv2ray | 4",
-            "type": "vless",
-            "server": "spd.fastly80-3.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "e6464498-c5a6-4216-a61a-0a4ac3c77e25",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/SPdnet",
-                "headers": {
-                    "Host": "spd.fastly80-3.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @v2rayng_madam | 0",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "932ea1e5-7d88-463d-8bb4-63408e173e9d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @fhkllvjkll | 6",
+            "tag": "🔓 | vless | @v2rayfr | 1",
             "type": "vless",
             "server": "151.101.194.133",
             "server_port": 443,
@@ -2650,40 +1907,9 @@
             }
         },
         {
-            "tag": "🔓 | vless | @v2ray_sos | 1",
-            "type": "vless",
-            "server": "live.989bull.com",
-            "server_port": 443,
-            "uuid": "SAVTEAM7",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "live.989bull.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443",
-                "headers": {
-                    "Host": "live.989bull.com"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | trojan | @DirectVPN | 6",
+            "tag": "🔒 | trojan | @DirectVPN | 10",
             "type": "trojan",
-            "server": "18.134.107.8",
+            "server": "13.37.35.58",
             "server_port": 22222,
             "password": "telegram-id-directvpn",
             "multiplex": {
@@ -2703,279 +1929,11 @@
             }
         },
         {
-            "tag": "🔓 | vless | @yekoyekvpn | 0",
-            "type": "vless",
-            "server": "[::ffff:3207:55dd]",
-            "server_port": 443,
-            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "tEstBp.fIBiDOB9775921.woRkeRS.DEV",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/xUnw05Z6MV3NG29U?ed=2560",
-                "headers": {
-                    "Host": "tEstBp.fIBiDOB9775921.woRkeRS.DEV"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @configt | 1",
-            "type": "vless",
-            "server": "compare99.com",
-            "server_port": 443,
-            "uuid": "3d5115e5-61c5-4a15-a616-6f2734914797",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "compare99.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/lW0tvTq4oSbHyKeRM?ed=2560",
-                "headers": {
-                    "Host": "compare99.com"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @v2raych | 5",
-            "type": "vless",
-            "server": "176.98.41.45",
-            "server_port": 13509,
-            "uuid": "dbc34aa9-3cb1-477a-c47d-998f8badf0e8",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "www.sega.com",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM",
-                    "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @configt | 2",
-            "type": "vless",
-            "server": "ip-fastly.sg-forum.info",
-            "server_port": 80,
-            "uuid": "3d5115e5-61c5-4a15-a616-6f2734914797",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/lW0tvTq4oSbHyKeRM?ed=2560",
-                "headers": {
-                    "Host": "loceryl.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @xpnteam | 2",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "7b6d049a-3799-4450-bf3f-941dba4d30b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
-                "headers": {
-                    "Host": "speedtest.net"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @xpnteam | 1",
-            "type": "vless",
-            "server": "151.101.2.165",
-            "server_port": 80,
-            "uuid": "7b6d049a-3799-4450-bf3f-941dba4d30b8",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
-                "headers": {
-                    "Host": "151.101.2.165"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @cephalon_ala | 0",
-            "type": "vless",
-            "server": "tun.ferdowsi.shop",
-            "server_port": 2087,
-            "uuid": "7fb2da06-0167-43ed-9119-7ec87ef68864",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "g4.ferdowsi.shop",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🔓 | vless | @farahvpn | 1",
-            "type": "vless",
-            "server": "185.146.173.206",
-            "server_port": 2087,
-            "uuid": "7fb2da06-0167-43ed-9119-7ec87ef68864",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "g4.ferdowsi.shop",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA",
-                "idle_timeout": "15s",
-                "ping_timeout": "15s",
-                "permit_without_stream": false
-            }
-        },
-        {
-            "tag": "🔓 | vless | @dgkbza | 8",
-            "type": "vless",
-            "server": "ArV2ry.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
-                "headers": {
-                    "Host": "ArV2ry.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🔓 | vless | @vpnplusee_free | 0",
-            "type": "vless",
-            "server": "A13.fastly80-2.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
-                "headers": {
-                    "Host": "A13.fastly80-2.hosting-ip.com"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | ss | @kingofilter | 17",
-            "type": "shadowsocks",
-            "server": "api.namasha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🔒 | trojan | @DirectVPN | 1",
+            "tag": "🔒 | trojan | @privatevpns | 12",
             "type": "trojan",
-            "server": "3.128.185.122",
+            "server": "51.44.130.13",
             "server_port": 22222,
-            "password": "telegram-id-directvpn",
+            "password": "telegram-id-privatevpns",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -2993,23 +1951,11 @@
             }
         },
         {
-            "tag": "🔒 | ss | @shadowsockskeys | 0",
-            "type": "shadowsocks",
-            "server": "arxfw2b78fi2q9hzylhn.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "Nk9asglDzHzjktVzTkvhaA",
-            "plugin": "",
-            "plugin_opts": ""
-        },
-        {
-            "tag": "🔒 | vless | @vpntwitt | 1",
-            "type": "vless",
-            "server": "site.VIGIlantecOllecTIOn.shop",
-            "server_port": 443,
-            "uuid": "fc8f9a2e-3cfa-4fd8-bc13-a1b1ef152860",
-            "flow": "",
-            "packet_encoding": "xudp",
+            "tag": "🔒 | trojan | @privatevpns | 5",
+            "type": "trojan",
+            "server": "13.61.41.167",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -3017,19 +1963,12 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "hajlab.ucdavis.edu",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
-                "headers": {
-                    "Host": "hajlab.ucdavis.edu"
                 }
             }
         },
@@ -3065,11 +2004,21 @@
             }
         },
         {
-            "tag": "🔓 | vless | @config_proxy | 5",
+            "tag": "🔒 | ss | @shadowsockskeys | 9",
+            "type": "shadowsocks",
+            "server": "37.143.129.140",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "f8f7aCzcPKbsF8p3",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🔓 | vless | @freevlessvpn | 1",
             "type": "vless",
-            "server": "live.989bull.com",
+            "server": "ergwork.web.unc.edu",
             "server_port": 443,
-            "uuid": "6675afe5-53c7-40ed-af50-de6442e42534",
+            "uuid": "3fecfaf1-02c1-436d-83b2-d43ddd82fd59",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3079,7 +2028,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "live.989bull.com",
+                "server_name": "ergwork.web.unc.edu",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -3089,18 +2038,18 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws\/",
+                "path": "\/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn",
                 "headers": {
-                    "Host": "live.989bull.com"
+                    "Host": "ergwork.web.unc.edu"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @v2safee | 0",
+            "tag": "🔓 | vless | @dgkbza | 1",
             "type": "vless",
-            "server": "speedtest.net",
+            "server": "NUFiLTER.fastly80-3.hosting-ip.com",
             "server_port": 80,
-            "uuid": "68eb62d1-0bff-4be0-8341-07a7ec1e38fb",
+            "uuid": "ad782ed6f68ff3543ee75a01ea7617aa",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3110,18 +2059,246 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095",
+                "path": "\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER",
+                "headers": {
+                    "Host": "NUFiLTER.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2rayng_vpnn | 0",
+            "type": "vless",
+            "server": "zula.ir",
+            "server_port": 2096,
+            "uuid": "cc41cc16-11a0-4bc8-8580-356cc0da1917",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mn.aftabe12.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Tel:@NT_Safe",
+                "headers": {
+                    "Host": "mn.aftabe12.ir"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2rayng_vpnn | 3",
+            "type": "vless",
+            "server": "live.skornorth.com",
+            "server_port": 443,
+            "uuid": "tel--ZEDMODEON",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.skornorth.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON",
+                "headers": {
+                    "Host": "live.skornorth.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @server_nekobox | 0",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8080,
+            "uuid": "1150cc8d-2545-4156-b66d-b394f9d515bd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray?ed=8880",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | vless | @v2aryng_vpn | 1",
+            "type": "vless",
+            "server": "purina.rs",
+            "server_port": 443,
+            "uuid": "ID-ViraV2ray-1569",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "purina.rs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/digikala.com\/login\/@ViraV2ray,@ViraV2ray,@ViraV2ray?ed=443",
+                "headers": {
+                    "Host": "purina.rs"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @kingspeedchanel | 4",
+            "type": "vless",
+            "server": "bwdraper.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "022404e1-6083-48e1-beee-9048dda539bc",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "bwdraper.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=1024",
+                "headers": {
+                    "Host": "bwdraper.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2ray666 | 0",
+            "type": "vless",
+            "server": "ergwork.web.unc.edu",
+            "server_port": 443,
+            "uuid": "c07f9efe-e0e4-413b-ab43-f84548686c0e",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ergwork.web.unc.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ws\/?ed=2052",
+                "headers": {
+                    "Host": "ergwork.web.unc.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2ray666 | 13",
+            "type": "vless",
+            "server": "ergwork.web.unc.edu",
+            "server_port": 443,
+            "uuid": "6ed33609-241b-44e5-be23-2567fd1b96f0",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "ergwork.web.unc.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/ws\/?ed=2052",
+                "headers": {
+                    "Host": "ergwork.web.unc.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @custom_config | 1",
+            "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 80,
+            "uuid": "69bf063b-967b-40e5-b184-38ff3bb8cac7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@custom_config?ed=2056",
                 "headers": {
                     "Host": "speedtest.net"
                 }
             }
         },
         {
-            "tag": "🔓 | vless | @moftinet | 1",
+            "tag": "🔓 | vless | @Parsashonam | 3",
             "type": "vless",
-            "server": "live.wkrq.com",
+            "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
-            "uuid": "e19814de-d38b-4436-9bdb-1fbb23e2876b",
+            "uuid": "Parsashonam-123",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -3131,7 +2308,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "live.wkrq.com",
+                "server_name": "Zmaoz.Faculty.Ucdavis.Edu.",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -3141,9 +2318,41 @@
             },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/@Parsashonam\/ws?ed=2560",
                 "headers": {
-                    "Host": "live.wkrq.com"
+                    "Host": "Zmaoz.Faculty.Ucdavis.Edu."
+                }
+            }
+        },
+        {
+            "tag": "🔒 | ss | @kingofilter | 2",
+            "type": "shadowsocks",
+            "server": "109.120.186.9",
+            "server_port": 23022,
+            "method": "chacha20-ietf-poly1305",
+            "password": "s#W0tqg%@N",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "tag": "🔒 | trojan | @DirectVPN | 9",
+            "type": "trojan",
+            "server": "35.181.158.51",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -3179,7 +2388,119 @@
             }
         },
         {
-            "tag": "🔓 | vless | @kurdistan_vpn_perfectt | 0",
+            "tag": "🔓 | vless | @farahvpn | 5",
+            "type": "vless",
+            "server": "185.146.173.206",
+            "server_port": 2087,
+            "uuid": "7fb2da06-0167-43ed-9119-7ec87ef68864",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "g4.ferdowsi.shop",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🔓 | vless | @cephalon_ala | 0",
+            "type": "vless",
+            "server": "tun.ferdowsi.shop",
+            "server_port": 2087,
+            "uuid": "7fb2da06-0167-43ed-9119-7ec87ef68864",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "g4.ferdowsi.shop",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA",
+                "idle_timeout": "15s",
+                "ping_timeout": "15s",
+                "permit_without_stream": false
+            }
+        },
+        {
+            "tag": "🔓 | vless | @config_proxy | 23",
+            "type": "vless",
+            "server": "polproxy.fastly80.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "f7a7baaa-e29c-4cec-a70e-9f71488884fd",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram",
+                "headers": {
+                    "Host": "polproxy.fastly80.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | vless | @alpha_v2ray_fazayi | 2",
+            "type": "vless",
+            "server": "45.12.134.129",
+            "server_port": 2053,
+            "uuid": "5957ca33-d8d9-4c2c-aadc-203270e33422",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "apple.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg",
+                    "short_id": "cc87"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @fhkllvjkll | 6",
             "type": "vless",
             "server": "151.101.194.133",
             "server_port": 443,
@@ -3210,29 +2531,7 @@
             }
         },
         {
-            "tag": "🔒 | trojan | @DirectVPN | 3",
-            "type": "trojan",
-            "server": "99.79.183.122",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🔒 | vless | @irov2rayn | 0",
+            "tag": "🔒 | vless | @irov2rayn | 1",
             "type": "vless",
             "server": "mcc.rayanfmusic.ir",
             "server_port": 2096,
@@ -3259,6 +2558,577 @@
                 "path": "\/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed=2096",
                 "headers": {
                     "Host": "mcc.rayanfmusic.ir"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @wxgmrjdcc | 2",
+            "type": "vless",
+            "server": "157.230.20.98",
+            "server_port": 14628,
+            "uuid": "8456babd-3b6e-4127-af39-e4cb8edda48f",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2ray_sos | 0",
+            "type": "vless",
+            "server": "zmaoz.faculty.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "Joinn--ZEDMODEON",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "zmaoz.faculty.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@ZEDMODEON-ZEDMODEON-ZEDMODEON@ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON",
+                "headers": {
+                    "Host": "zmaoz.faculty.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2rayng_vpnn | 1",
+            "type": "vless",
+            "server": "clud.aftabe12.ir",
+            "server_port": 2096,
+            "uuid": "cc41cc16-11a0-4bc8-8580-356cc0da1917",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mn.aftabe12.ir",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Tel:@NT_Safe",
+                "headers": {
+                    "Host": "mn.aftabe12.ir"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpnwedbaz | 15",
+            "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mio.splashthat.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "mio.splashthat.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @xpnteam | 1",
+            "type": "vless",
+            "server": "151.101.2.165",
+            "server_port": 80,
+            "uuid": "7b6d049a-3799-4450-bf3f-941dba4d30b8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
+                "headers": {
+                    "Host": "151.101.2.165"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @yekoyekvpn | 0",
+            "type": "vless",
+            "server": "[::ffff:3207:55dd]",
+            "server_port": 443,
+            "uuid": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "tEstBp.fIBiDOB9775921.woRkeRS.DEV",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/xUnw05Z6MV3NG29U?ed=2560",
+                "headers": {
+                    "Host": "tEstBp.fIBiDOB9775921.woRkeRS.DEV"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | trojan | @privatevpns | 6",
+            "type": "trojan",
+            "server": "16.16.140.180",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🔒 | trojan | @DirectVPN | 8",
+            "type": "trojan",
+            "server": "3.9.203.99",
+            "server_port": 22222,
+            "password": "telegram-id-directvpn",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @configt | 1",
+            "type": "vless",
+            "server": "compare99.com",
+            "server_port": 443,
+            "uuid": "3d5115e5-61c5-4a15-a616-6f2734914797",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "compare99.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/lW0tvTq4oSbHyKeRM?ed=2560",
+                "headers": {
+                    "Host": "compare99.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @xpnteam | 2",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "7b6d049a-3799-4450-bf3f-941dba4d30b8",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam\/@XpnTeam",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpnplusee_free | 2",
+            "type": "vless",
+            "server": "A13.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "A13.fastly80-2.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpnplusee_free | 13",
+            "type": "vless",
+            "server": "ArV2ry.fastly80-2.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "ArV2ry.fastly80-2.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @mv2ray_center | 1",
+            "type": "vless",
+            "server": "live.989bull.com",
+            "server_port": 443,
+            "uuid": "SAVTEAM7",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.989bull.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam----@SavTeam?ed=443",
+                "headers": {
+                    "Host": "live.989bull.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2raycrow | 3",
+            "type": "vless",
+            "server": "ftp.tehransiman.co.uk",
+            "server_port": 443,
+            "uuid": "de6677da-e02c-4935-8ec0-24ed23fadfe9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "Ruc80.TehrANsiMAn.co.UK.",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/?ed=2560",
+                "headers": {
+                    "Host": "Ruc80.TehrANsiMAn.co.UK."
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @hajimamadvpn | 1",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "f56e4463-f71a-4ab6-8074-534d2b1439c2",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2safee | 0",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "68eb62d1-0bff-4be0-8341-07a7ec1e38fb",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @configt | 2",
+            "type": "vless",
+            "server": "ip-fastly.sg-forum.info",
+            "server_port": 80,
+            "uuid": "3d5115e5-61c5-4a15-a616-6f2734914797",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/lW0tvTq4oSbHyKeRM?ed=2560",
+                "headers": {
+                    "Host": "loceryl.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @hajimamadvpn | 0",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "2c266a8f-863d-4a4d-8db8-35e1e196d0f9",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN",
+                "headers": {
+                    "Host": "speedtest.net"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @nofiltering2 | 0",
+            "type": "vless",
+            "server": "clientproo.xyz",
+            "server_port": 8080,
+            "uuid": "2fb4ff3e-664c-48d1-81c5-e64b1b5905f6",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "🔓 | vless | @vpnplusee_free | 14",
+            "type": "vless",
+            "server": "ArV2ry.fastly80-3.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=80",
+                "headers": {
+                    "Host": "ArV2ry.fastly80-3.hosting-ip.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @canfigv2ray | 0",
+            "type": "vless",
+            "server": "151.101.194.133",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "mio.splashthat.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "mio.splashthat.com"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @v2advicr | 0",
+            "type": "vless",
+            "server": "hajlab.ucdavis.edu",
+            "server_port": 443,
+            "uuid": "ac50108f-6fd7-4697-aab3-39652cb13471",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "hajlab.ucdavis.edu",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy",
+                "headers": {
+                    "Host": "hajlab.ucdavis.edu"
+                }
+            }
+        },
+        {
+            "tag": "🔓 | vless | @arv2ray | 0",
+            "type": "vless",
+            "server": "live.skornorth.com",
+            "server_port": 443,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "live.skornorth.com",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray",
+                "headers": {
+                    "Host": "live.skornorth.com"
                 }
             }
         }
