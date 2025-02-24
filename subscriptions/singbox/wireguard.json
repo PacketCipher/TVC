@@ -166,7 +166,7 @@
         {
             "type": "wireguard",
             "private_key": "WP2L+XXkvOz19icDNY2H7ooMfkLwVoXOWpW0kS78SVk=",
-            "server": "188.114.97.131",
+            "server": "188.114.97.231",
             "server_port": 903,
             "local_address": [
                 "172.16.0.2/32"
