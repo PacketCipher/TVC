@@ -170,8 +170,8 @@
         {
             "type": "wireguard",
             "private_key": "iI4A7qsgbBGw7Uy8p9KzvCXSvqvB0DsfTakAMeHNfEU=",
-            "server": "188.114.96.73",
-            "server_port": 955,
+            "server": "188.114.96.48",
+            "server_port": 878,
             "local_address": [
                 "172.16.0.2/32"
             ],
