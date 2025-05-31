@@ -11,20 +11,21 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @outlineopenkey | 4 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = A2iyQulQpURYOW68IKBwPh
-🔒 | ss | @outlineopenkey | 1 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = IvQwxJt56PnCGza5b6kBNl
 🔒 | ss | @VmessProtocol | 7 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @DeamNet_Proxy | 18 = ss, 45.87.175.164, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
-🔒 | ss | @outlineopenkey | 5 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = Sn2k35HUo1GvYgn640ZeWt
-🔒 | ss | @shadowsockskeys | 8 = ss, 64.176.85.73, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
 🔒 | ss | @VmessProtocol | 3 = ss, 45.87.175.181, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
 🔒 | ss | @kingofilter | 6 = ss, 45.87.175.164, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @outlineopenkey | 5 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = Sn2k35HUo1GvYgn640ZeWt
+🔒 | ss | @DeamNet_Proxy | 18 = ss, 45.87.175.164, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
+🔒 | ss | @outlineopenkey | 1 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = IvQwxJt56PnCGza5b6kBNl
+🔒 | ss | @DeamNet_Proxy | 19 = ss, 45.87.175.166, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @outlineopenkey | 4 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = A2iyQulQpURYOW68IKBwPh
+🔒 | ss | @shadowsockskeys | 8 = ss, 64.176.85.73, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
 🔒 | ss | @outlineopenkey | 3 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = 7ZjmI1rZaWAHp7fXSqtkbl
-🔒 | ss | @DeamNet_Proxy | 8 = ss, 45.87.175.199, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
+🔒 | ss | @outlineopenkey | 2 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = coVsAv8LSCVGijEQFeDoib
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @DeamNet_Proxy | 8
-URL-TEST = url-test,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @DeamNet_Proxy | 8
-FALLBACK = fallback,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @DeamNet_Proxy | 8
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @DeamNet_Proxy | 19,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2
+URL-TEST = url-test,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @DeamNet_Proxy | 19,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2
+FALLBACK = fallback,🔒 | ss | @VmessProtocol | 7,🔒 | ss | @VmessProtocol | 3,🔒 | ss | @kingofilter | 6,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @DeamNet_Proxy | 18,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @DeamNet_Proxy | 19,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
