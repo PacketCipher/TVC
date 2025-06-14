@@ -14,12 +14,10 @@ DIRECT = direct
 🔒 | ss | @DeamNet_Proxy | 0 = ss, series-a2-me.samanehha.co, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
 🔒 | ss | @VmessProtocol | 8 = ss, 45.87.175.181, 8080, encrypt-method = chacha20-ietf-poly1305, password = 1RWwXhwfAB5gAEozU4G2Pg
 🔒 | ss | @outlineopenkey | 3 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = 7cUzcL0EiGij6BCMTZ0Oon
-🔒 | ss | @outlineopenkey | 1 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = Zg2VVReOOiq18u9sbBI6W7
-🔒 | ss | @shadowsockskeys | 10 = ss, 45.139.24.24, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 10
-URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 10
-FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 10
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3
+URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3
+FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 0,🔒 | ss | @VmessProtocol | 8,🔒 | ss | @outlineopenkey | 3
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
