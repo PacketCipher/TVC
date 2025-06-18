@@ -121,15 +121,15 @@ proxies:
   - {"name":"🔒 | ss | @DeamNet_Proxy | 2","type":"ss","server":"67.220.95.102","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
   - {"name":"🔒 | ss | @shadowsockskeys | 7","type":"ss","server":"104.167.197.25","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 4","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @DeamNet_Proxy | 9","type":"ss","server":"freakconfig13.felafel.org","port":443,"password":"1xO2cqPazqjGfCfd","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @DeamNet_Proxy | 7","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @DeamNet_Proxy | 8","type":"ss","server":"admin.c1.webramz.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 1","type":"ss","server":"89.185.84.185","port":443,"password":"WuMaRFVXF2KtS7kimfAmy7","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 1","type":"ss","server":"9.163.232.180","port":1490,"password":"ojcP36n1SouDcnBg9EOZP8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @DeamNet_Proxy | 9","type":"ss","server":"freakconfig13.felafel.org","port":443,"password":"1xO2cqPazqjGfCfd","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @DeamNet_Proxy | 8","type":"ss","server":"admin.c1.webramz.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 0","type":"ss","server":"178.128.200.198","port":8443,"password":"KnYKwpw0w4c0RDnCo8KUcDQcwpp7w7bCv3nCgMOPHB/DnhLDj8OawrVVB2o5","cipher":"aes-256-gcm"}
   - {"name":"🔒 | ss | @outlineopenkey | 2","type":"ss","server":"81.19.141.45","port":443,"password":"uga65t9mETCxEPPVXQbEIO","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @shadowsockskeys | 3","type":"ss","server":"77.239.116.76","port":8315,"password":"oHOP1bWFMkQVx3PdbhRlOk","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @outlineopenkey | 0","type":"ss","server":"89.185.84.185","port":443,"password":"YgovpwKtBYN8fje8IeNQKt","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 1","type":"ss","server":"89.185.84.185","port":443,"password":"WuMaRFVXF2KtS7kimfAmy7","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsockskeys | 3","type":"ss","server":"77.239.116.76","port":8315,"password":"oHOP1bWFMkQVx3PdbhRlOk","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 14","type":"ss","server":"45.139.24.24","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: MANUAL
@@ -140,15 +140,15 @@ proxy-groups:
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 7'
       - '🔒 | ss | @shadowsockskeys | 4'
-      - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @DeamNet_Proxy | 8'
+      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @shadowsockskeys | 1'
+      - '🔒 | ss | @DeamNet_Proxy | 9'
+      - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @shadowsockskeys | 0'
       - '🔒 | ss | @outlineopenkey | 2'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @shadowsockskeys | 14'
   - name: URL-TEST
     type: url-test
@@ -159,15 +159,15 @@ proxy-groups:
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 7'
       - '🔒 | ss | @shadowsockskeys | 4'
-      - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @DeamNet_Proxy | 8'
+      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @shadowsockskeys | 1'
+      - '🔒 | ss | @DeamNet_Proxy | 9'
+      - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @shadowsockskeys | 0'
       - '🔒 | ss | @outlineopenkey | 2'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @shadowsockskeys | 14'
   - name: FALLBACK
     type: fallback
@@ -177,15 +177,15 @@ proxy-groups:
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 7'
       - '🔒 | ss | @shadowsockskeys | 4'
-      - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @DeamNet_Proxy | 8'
+      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @shadowsockskeys | 1'
+      - '🔒 | ss | @DeamNet_Proxy | 9'
+      - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @shadowsockskeys | 0'
       - '🔒 | ss | @outlineopenkey | 2'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @shadowsockskeys | 14'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
