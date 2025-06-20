@@ -120,21 +120,19 @@ dns:
 proxies:
   - {"name":"🔒 | ss | @DeamNet_Proxy | 2","type":"ss","server":"67.220.95.102","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
   - {"name":"🔒 | ss | @shadowsockskeys | 9","type":"ss","server":"104.167.197.25","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @DeamNet_Proxy | 7","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @shadowsockskeys | 3","type":"ss","server":"9.163.232.180","port":1490,"password":"ojcP36n1SouDcnBg9EOZP8","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @DeamNet_Proxy | 8","type":"ss","server":"admin.c1.webramz.co","port":443,"password":"W74XFALLLuw6m5IA","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @DeamNet_Proxy | 9","type":"ss","server":"freakconfig13.felafel.org","port":443,"password":"1xO2cqPazqjGfCfd","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 6","type":"ss","server":"85.210.120.237","port":443,"password":"Bog0ELmMM9DSxDdQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsockskeys | 3","type":"ss","server":"9.163.232.180","port":1490,"password":"ojcP36n1SouDcnBg9EOZP8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @DeamNet_Proxy | 7","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 2","type":"ss","server":"178.128.200.198","port":8443,"password":"KnYKwpw0w4c0RDnCo8KUcDQcwpp7w7bCv3nCgMOPHB/DnhLDj8OawrVVB2o5","cipher":"aes-256-gcm"}
-  - {"name":"🔒 | ss | @outlineopenkey | 3","type":"ss","server":"81.19.141.45","port":443,"password":"lp8UNMU8I2995PbJGGU5Ed","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | trojan | @DirectVPN | 1","type":"trojan","server":"63.178.28.207","port":22223,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🔒 | ss | @outlineopenkey | 1","type":"ss","server":"81.19.141.45","port":443,"password":"JX8SzGXBxCJcpRSWtQf0mZ","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @outlineopenkey | 7","type":"ss","server":"194.87.45.189","port":443,"password":"ldWwl9kiXjwaKjq5I8FR1C","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 5","type":"ss","server":"77.239.116.76","port":8315,"password":"oHOP1bWFMkQVx3PdbhRlOk","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 5","type":"ss","server":"89.185.84.185","port":443,"password":"Ev2lIdYZlDMXtITjlJuPR0","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 0","type":"ss","server":"89.185.84.185","port":443,"password":"b89p9s99c39sDIp453JP5r","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 6","type":"ss","server":"77.83.246.74","port":443,"password":"VeEkt7qHRtoRZYkCpAWAqP","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 1","type":"ss","server":"81.19.141.45","port":443,"password":"JX8SzGXBxCJcpRSWtQf0mZ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 3","type":"ss","server":"81.19.141.45","port":443,"password":"lp8UNMU8I2995PbJGGU5Ed","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @outlineopenkey | 2","type":"ss","server":"77.83.246.74","port":443,"password":"hhIkB13v5IRTCUaiQqqMsK","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 0","type":"ss","server":"89.185.84.185","port":443,"password":"b89p9s99c39sDIp453JP5r","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 5","type":"ss","server":"89.185.84.185","port":443,"password":"Ev2lIdYZlDMXtITjlJuPR0","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 16","type":"ss","server":"45.139.24.24","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 0","type":"ss","server":"62.133.63.212","port":57456,"password":"c40641c1f89e7acb","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
@@ -145,21 +143,19 @@ proxy-groups:
       - FALLBACK
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 9'
-      - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @shadowsockskeys | 6'
+      - '🔒 | ss | @shadowsockskeys | 3'
+      - '🔒 | ss | @DeamNet_Proxy | 7'
       - '🔒 | ss | @shadowsockskeys | 2'
-      - '🔒 | ss | @outlineopenkey | 3'
-      - '🔒 | trojan | @DirectVPN | 1'
-      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @outlineopenkey | 7'
       - '🔒 | ss | @shadowsockskeys | 5'
-      - '🔒 | ss | @outlineopenkey | 5'
-      - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 6'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @outlineopenkey | 3'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @outlineopenkey | 5'
       - '🔒 | ss | @shadowsockskeys | 16'
       - '🔒 | ss | @shadowsockskeys | 0'
   - name: URL-TEST
@@ -170,21 +166,19 @@ proxy-groups:
     proxies:
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 9'
-      - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @shadowsockskeys | 6'
+      - '🔒 | ss | @shadowsockskeys | 3'
+      - '🔒 | ss | @DeamNet_Proxy | 7'
       - '🔒 | ss | @shadowsockskeys | 2'
-      - '🔒 | ss | @outlineopenkey | 3'
-      - '🔒 | trojan | @DirectVPN | 1'
-      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @outlineopenkey | 7'
       - '🔒 | ss | @shadowsockskeys | 5'
-      - '🔒 | ss | @outlineopenkey | 5'
-      - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 6'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @outlineopenkey | 3'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @outlineopenkey | 5'
       - '🔒 | ss | @shadowsockskeys | 16'
       - '🔒 | ss | @shadowsockskeys | 0'
   - name: FALLBACK
@@ -194,21 +188,19 @@ proxy-groups:
     proxies:
       - '🔒 | ss | @DeamNet_Proxy | 2'
       - '🔒 | ss | @shadowsockskeys | 9'
-      - '🔒 | ss | @DeamNet_Proxy | 7'
-      - '🔒 | ss | @shadowsockskeys | 3'
       - '🔒 | ss | @DeamNet_Proxy | 8'
       - '🔒 | ss | @DeamNet_Proxy | 9'
       - '🔒 | ss | @shadowsockskeys | 6'
+      - '🔒 | ss | @shadowsockskeys | 3'
+      - '🔒 | ss | @DeamNet_Proxy | 7'
       - '🔒 | ss | @shadowsockskeys | 2'
-      - '🔒 | ss | @outlineopenkey | 3'
-      - '🔒 | trojan | @DirectVPN | 1'
-      - '🔒 | ss | @outlineopenkey | 1'
       - '🔒 | ss | @outlineopenkey | 7'
       - '🔒 | ss | @shadowsockskeys | 5'
-      - '🔒 | ss | @outlineopenkey | 5'
-      - '🔒 | ss | @outlineopenkey | 0'
-      - '🔒 | ss | @outlineopenkey | 6'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @outlineopenkey | 3'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @outlineopenkey | 5'
       - '🔒 | ss | @shadowsockskeys | 16'
       - '🔒 | ss | @shadowsockskeys | 0'
 rules:
