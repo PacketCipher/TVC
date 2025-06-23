@@ -11,21 +11,21 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @DeamNet_Proxy | 5 = ss, 67.220.95.102, 8888, encrypt-method = aes-256-gcm, password = Y6R9pAtvxxzmGC
 🔒 | ss | @DeamNet_Proxy | 2 = ss, 67.220.95.102, 8881, encrypt-method = aes-256-gcm, password = kDWvXYZoTBcGkC4
+🔒 | ss | @DeamNet_Proxy | 5 = ss, 67.220.95.102, 8888, encrypt-method = aes-256-gcm, password = Y6R9pAtvxxzmGC
 🔒 | ss | @shadowsockskeys | 13 = ss, 104.167.197.25, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
+🔒 | trojan | @privatevpns | 1 = trojan, 13.38.159.113, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | trojan | @DirectVPN | 1 = trojan, 13.38.159.113, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🔒 | ss | @shadowsockskeys | 10 = ss, 85.210.120.237, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
 🔒 | ss | @shadowsockskeys | 7 = ss, 9.163.232.180, 1490, encrypt-method = chacha20-ietf-poly1305, password = ojcP36n1SouDcnBg9EOZP8
 🔒 | ss | @DeamNet_Proxy | 1 = ss, 45.87.175.178, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
 🔒 | ss | @shadowsockskeys | 6 = ss, 178.128.200.198, 8443, encrypt-method = aes-256-gcm, password = KnYKwpw0w4c0RDnCo8KUcDQcwpp7w7bCv3nCgMOPHB/DnhLDj8OawrVVB2o5
-🔒 | ss | @outlineopenkey | 1 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = 9jqKCpV3mRBZ6o00jjrNGA
-🔒 | ss | @outlineopenkey | 3 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = fABjNfGkDjqzYGS6k5hb1N
 🔒 | ss | @shadowsockskeys | 3 = ss, 38.244.136.218, 2222, encrypt-method = chacha20-ietf-poly1305, password = qscavF5UviIL-8V-E4raBA
 🔒 | ss | @outlineopenkey | 2 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = CntCF1LjAtgxciVOc7wKnS
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @shadowsockskeys | 13,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
-URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @shadowsockskeys | 13,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
-FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @shadowsockskeys | 13,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @shadowsockskeys | 13,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
+URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @shadowsockskeys | 13,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
+FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 2,🔒 | ss | @DeamNet_Proxy | 5,🔒 | ss | @shadowsockskeys | 13,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 10,🔒 | ss | @shadowsockskeys | 7,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @outlineopenkey | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
