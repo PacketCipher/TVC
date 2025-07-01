@@ -12,15 +12,15 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🔒 | ss | @DeamNet_Proxy | 12 = ss, 172.233.128.126, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
+🔒 | ss | @outlineopenkey | 4 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = rjAzTLSXT01S05r46lcZFw
+🔒 | ss | @shadowsockskeys | 6 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | trojan | @DirectVPN | 1 = trojan, 63.177.25.243, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🔒 | ss | @shadowsockskeys | 12 = ss, 62.133.63.212, 57456, encrypt-method = chacha20-ietf-poly1305, password = c40641c1f89e7acb
 🔒 | ss | @shadowsockskeys | 5 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @outlineopenkey | 0 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = DPVomRRqdFGRTJlV0Lx8im
-🔒 | ss | @outlineopenkey | 5 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = how43AiU6GHNBZg02iuc8G
-🔒 | ss | @shadowsockskeys | 6 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
-URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
-FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 6,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5
+URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 6,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5
+FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @shadowsockskeys | 6,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
