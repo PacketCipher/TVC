@@ -11,14 +11,16 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @outlineopenkey | 0 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = DPVomRRqdFGRTJlV0Lx8im
-🔒 | ss | @shadowsockskeys | 6 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @shadowsockskeys | 5 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | ss | @DeamNet_Proxy | 12 = ss, 172.233.128.126, 1866, encrypt-method = chacha20-ietf-poly1305, password = oXGp1+ihlfKg826H
 🔒 | ss | @shadowsockskeys | 12 = ss, 62.133.63.212, 57456, encrypt-method = chacha20-ietf-poly1305, password = c40641c1f89e7acb
+🔒 | ss | @shadowsockskeys | 5 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | ss | @outlineopenkey | 0 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = DPVomRRqdFGRTJlV0Lx8im
+🔒 | ss | @outlineopenkey | 5 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = how43AiU6GHNBZg02iuc8G
+🔒 | ss | @shadowsockskeys | 6 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @shadowsockskeys | 12
-URL-TEST = url-test,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @shadowsockskeys | 12
-FALLBACK = fallback,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @shadowsockskeys | 6,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @shadowsockskeys | 12
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
+URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
+FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 12,🔒 | ss | @shadowsockskeys | 12,🔒 | ss | @shadowsockskeys | 5,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
