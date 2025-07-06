@@ -12,12 +12,11 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 🔒 | ss | @outlineopenkey | 5 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = F5VooRyVfTAgMxB1N2cbvj
-🔒 | ss | @shadowsockskeys | 11 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @shadowsockskeys | 10 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | ss | @outlineopenkey | 3 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = ZWA0PqjfcYlQRgAvu10qZR
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 11,🔒 | ss | @shadowsockskeys | 10
-URL-TEST = url-test,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 11,🔒 | ss | @shadowsockskeys | 10
-FALLBACK = fallback,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @shadowsockskeys | 11,🔒 | ss | @shadowsockskeys | 10
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3
+URL-TEST = url-test,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3
+FALLBACK = fallback,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
