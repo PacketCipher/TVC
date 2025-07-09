@@ -11,19 +11,23 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @vmess_vless_v2rayng | 19 = ss, admin.c4.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = 69MUii7VDwMqh7Hz
-🔒 | ss | @vmess_vless_v2rayng | 12 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
+🔒 | ss | @vmess_vless_v2rayng | 23 = ss, 85.210.120.237, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
 🔒 | ss | @iP_CF | 68 = ss, series-a2.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = mps3FwmDjLrWaOVg
-🔒 | trojan | @DirectVPN | 1 = trojan, 15.188.93.104, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🔒 | ss | @vmess_vless_v2rayng | 20 = ss, 85.210.120.237, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
-🔒 | trojan | @DirectVPN | 3 = trojan, 3.67.117.55, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | ss | @vmess_vless_v2rayng | 19 = ss, admin.c4.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = 69MUii7VDwMqh7Hz
+🔒 | ss | @outlineopenkey | 0 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = l2yHlcJJ5f8tA69pQwvNHa
+🔒 | ss | @outlineopenkey | 3 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = iMYyqPwUN8hkQ3d2PkOoX3
+🔒 | ss | @outlineopenkey | 5 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = qsTN0BaGe7ZC5D7z48b6BQ
+🔒 | trojan | @privatevpns | 1 = trojan, 63.178.255.89, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | trojan | @privatevpns | 2 = trojan, 15.188.93.104, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | ss | @vmess_vless_v2rayng | 12 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
+🔒 | trojan | @privatevpns | 0 = trojan, 3.74.110.109, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
 🔒 | ss | @shadowsockskeys | 14 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @outlineopenkey | 1 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = RPtsTRdCgwg1KBD3DtczYA
-🔒 | ss | @shadowsockskeys | 13 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | ss | @outlineopenkey | 1 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = L0CsMgSEFs5AuT0gMaPr6l
+🔒 | ss | @outlineopenkey | 6 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = sZCTOeoXoVtmAtFUUtrFAI
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | ss | @iP_CF | 68,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @vmess_vless_v2rayng | 20,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 13
-URL-TEST = url-test,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | ss | @iP_CF | 68,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @vmess_vless_v2rayng | 20,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 13
-FALLBACK = fallback,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | ss | @iP_CF | 68,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @vmess_vless_v2rayng | 20,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @shadowsockskeys | 13
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @iP_CF | 68,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 5,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @privatevpns | 2,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 6
+URL-TEST = url-test,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @iP_CF | 68,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 5,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @privatevpns | 2,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 6
+FALLBACK = fallback,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @iP_CF | 68,🔒 | ss | @vmess_vless_v2rayng | 19,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 5,🔒 | trojan | @privatevpns | 1,🔒 | trojan | @privatevpns | 2,🔒 | ss | @vmess_vless_v2rayng | 12,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 14,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
