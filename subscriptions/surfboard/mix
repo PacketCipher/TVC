@@ -11,19 +11,20 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @vmess_vless_v2rayng | 21 = ss, 85.210.120.237, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
-🔒 | ss | @DeamNet_Proxy | 1 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
-🔒 | ss | @vmess_vless_v2rayng | 13 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
+🔒 | ss | @vmess_vless_v2rayng | 24 = ss, 85.210.120.237, 443, encrypt-method = chacha20-ietf-poly1305, password = Bog0ELmMM9DSxDdQ
 🔒 | ss | @DeamNet_Proxy | 6 = ss, freakconfig13.felafel.org, 443, encrypt-method = chacha20-ietf-poly1305, password = 1xO2cqPazqjGfCfd
-🔒 | ss | @iP_CF | 72 = ss, series-a2.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = mps3FwmDjLrWaOVg
+🔒 | ss | @vmess_vless_v2rayng | 13 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
 🔒 | ss | @DeamNet_Proxy | 4 = ss, admin.c1.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = W74XFALLLuw6m5IA
-🔒 | trojan | @privatevpns | 0 = trojan, 63.177.166.9, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | ss | @iP_CF | 72 = ss, series-a2.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = mps3FwmDjLrWaOVg
+🔒 | ss | @DeamNet_Proxy | 1 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
 🔒 | ss | @shadowsockskeys | 16 = ss, pl.vmagnum.win, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @vmess_vless_v2rayng | 20 = ss, admin.c4.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = 69MUii7VDwMqh7Hz
+🔒 | ss | @DeamNet_Proxy | 17 = ss, 45.87.175.192, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
+🔒 | ss | @vmess_vless_v2rayng | 23 = ss, 45.87.175.164, 8080, encrypt-method = chacha20-ietf-poly1305, password = 4a2rfixophdjffa8KVA4Aa
+🔒 | ss | @outlineopenkey | 6 = ss, 194.87.45.189, 443, encrypt-method = chacha20-ietf-poly1305, password = l2yHlcJJ5f8tA69pQwvNHa
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @vmess_vless_v2rayng | 21,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 4,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @vmess_vless_v2rayng | 20
-URL-TEST = url-test,🔒 | ss | @vmess_vless_v2rayng | 21,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 4,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @vmess_vless_v2rayng | 20
-FALLBACK = fallback,🔒 | ss | @vmess_vless_v2rayng | 21,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 4,🔒 | trojan | @privatevpns | 0,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @vmess_vless_v2rayng | 20
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @vmess_vless_v2rayng | 24,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @DeamNet_Proxy | 17,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @outlineopenkey | 6
+URL-TEST = url-test,🔒 | ss | @vmess_vless_v2rayng | 24,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @DeamNet_Proxy | 17,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @outlineopenkey | 6
+FALLBACK = fallback,🔒 | ss | @vmess_vless_v2rayng | 24,🔒 | ss | @DeamNet_Proxy | 6,🔒 | ss | @vmess_vless_v2rayng | 13,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @iP_CF | 72,🔒 | ss | @DeamNet_Proxy | 1,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @DeamNet_Proxy | 17,🔒 | ss | @vmess_vless_v2rayng | 23,🔒 | ss | @outlineopenkey | 6
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
