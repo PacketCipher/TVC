@@ -3,7 +3,7 @@ name: "Let's TVC!"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 */12 * * *'
     
 concurrency:
   group: "pages"
