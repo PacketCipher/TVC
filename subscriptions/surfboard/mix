@@ -13,17 +13,16 @@ enhanced-mode-by-rule = true
 DIRECT = direct
 🔒 | ss | @DeamNet_Proxy | 4 = ss, 45.87.175.22, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
 🔒 | ss | @vmess_vless_v2rayng | 15 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
-🔒 | ss | @outlineopenkey | 3 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = Tq881Jz0QHbFE5Zn0iYbra
-🔒 | ss | @shadowsockskeys | 2 = ss, 185.193.102.7, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
-🔒 | ss | @shadowsocksm | 1 = ss, h110vpnch.outlinekeys.net, 4248, encrypt-method = chacha20-ietf-poly1305, password = bmJP6JbMlJ2nHN5odn9gcA
-🔒 | ss | @shadowsocksm | 13 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
-🔒 | ss | @shadowsockskeys | 16 = ss, 83.217.9.128, 2222, encrypt-method = chacha20-ietf-poly1305, password = qscavF5UviIL-8V-E4raBA
-🔒 | ss | @outlineopenkey | 1 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = z81hhcPRD65JHENQw8A7v7
+🔒 | ss | @shadowsocksm | 12 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
 🔒 | ss | @kingofilter | 1 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
+🔒 | trojan | @DirectVPN | 3 = trojan, 35.181.18.225, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | trojan | @privatevpns | 3 = trojan, 35.181.18.225, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
+🔒 | ss | @shadowsocksm | 13 = ss, 216.173.70.187, 57456, encrypt-method = chacha20-ietf-poly1305, password = a58fa62b4944ddbf
+🔒 | ss | @outlineopenkey | 2 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = a8GGeKmIE6FOrbTYQvQB0g
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 2,🔒 | ss | @shadowsocksm | 1,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @kingofilter | 1
-URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 2,🔒 | ss | @shadowsocksm | 1,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @kingofilter | 1
-FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @shadowsockskeys | 2,🔒 | ss | @shadowsocksm | 1,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @shadowsockskeys | 16,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @kingofilter | 1
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @shadowsocksm | 12,🔒 | ss | @kingofilter | 1,🔒 | trojan | @DirectVPN | 3,🔒 | trojan | @privatevpns | 3,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @outlineopenkey | 2
+URL-TEST = url-test,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @shadowsocksm | 12,🔒 | ss | @kingofilter | 1,🔒 | trojan | @DirectVPN | 3,🔒 | trojan | @privatevpns | 3,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @outlineopenkey | 2
+FALLBACK = fallback,🔒 | ss | @DeamNet_Proxy | 4,🔒 | ss | @vmess_vless_v2rayng | 15,🔒 | ss | @shadowsocksm | 12,🔒 | ss | @kingofilter | 1,🔒 | trojan | @DirectVPN | 3,🔒 | trojan | @privatevpns | 3,🔒 | ss | @shadowsocksm | 13,🔒 | ss | @outlineopenkey | 2
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
