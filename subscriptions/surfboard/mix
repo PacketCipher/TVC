@@ -11,30 +11,18 @@ enhanced-mode-by-rule = true
 
 [Proxy]
 DIRECT = direct
-🔒 | ss | @iP_CF | 23 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
-🔒 | ss | @iP_CF | 25 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
-🔒 | ss | @shadowsocksm | 24 = ss, 45.87.175.35, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @shadowsocksm | 12 = ss, 45.87.175.22, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | trojan | @DirectVPN | 0 = trojan, 15.188.128.163, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🔒 | trojan | @DirectVPN | 1 = trojan, 13.38.160.98, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🔒 | ss | @outlineopenkey | 0 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = 2QzgzQm073v8eaEqOFTFg8
-🔒 | ss | @iP_CF | 22 = ss, 45.87.175.10, 8080, encrypt-method = chacha20-ietf-poly1305, password = oZIoA69Q8yhcQV8ka3Pa3A
-🔒 | ss | @outlineopenkey | 4 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = JVgCIY3vzEdSVmKwcsUHLx
-🔒 | ss | @iP_CF | 27 = ss, 45.87.175.178, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
-🔒 | ss | @outlineopenkey | 5 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = d4GSHcTfCYNIpz7d6EyTQy
-🔒 | ss | @outlineopenkey | 3 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = 8Rpw0tO8f4BTjW5pKrOYrK
-🔒 | ss | @outlineopenkey | 7 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = CsJL0wk3lXKlu4zYZpzXIK
-🔒 | trojan | @privatevpns | 2 = trojan, 52.58.120.58, 22222, password = telegram-id-privatevpns, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🔒 | trojan | @DirectVPN | 3 = trojan, 3.123.224.178, 22223, password = telegram-id-directvpn, udp-delay = true, skip-cert-verify = false, sni = trojan.burgerip.co.uk, ws = false
-🔒 | ss | @outlineopenkey | 1 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = iHHTpYLdqY5cDSPnXTaZuQ
-🔒 | ss | @outlineopenkey | 2 = ss, 77.83.246.74, 443, encrypt-method = chacha20-ietf-poly1305, password = NbZNxuETXu3wGGbuiOT8RR
-🔒 | ss | @shadowsockskeys | 8 = ss, 185.193.102.7, 57456, encrypt-method = chacha20-ietf-poly1305, password = 360e21d21977dc11
-🔒 | ss | @shadowsockskeys | 3 = ss, 171.22.254.17, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
-🔒 | ss | @shadowsockskeys | 16 = ss, 147.78.3.93, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @iP_CF | 34 = ss, admin.c2.webramz.co, 443, encrypt-method = chacha20-ietf-poly1305, password = WstuSnlu4ieA9M0L
+🔒 | ss | @iP_CF | 36 = ss, series-a2-mec.varzesh360.co, 443, encrypt-method = chacha20-ietf-poly1305, password = u17T3BvpYaaiuW2c
+🔒 | ss | @shadowsocksm | 6 = ss, admin.c2.havij.co, 443, encrypt-method = chacha20-ietf-poly1305, password = AcGFEsMR6c07Txux
+🔒 | ss | @iP_CF | 10 = ss, 45.87.175.178, 8080, encrypt-method = chacha20-ietf-poly1305, password = cvII85TrW6n0OGyfpHVS1u
+🔒 | ss | @outlineopenkey | 3 = ss, 81.19.141.45, 443, encrypt-method = chacha20-ietf-poly1305, password = iHHTpYLdqY5cDSPnXTaZuQ
+🔒 | ss | @outlineopenkey | 2 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = 2QzgzQm073v8eaEqOFTFg8
+🔒 | ss | @shadowsockskeys | 17 = ss, 147.78.3.93, 990, encrypt-method = chacha20-ietf-poly1305, password = f8f7aCzcPKbsF8p3
+🔒 | ss | @outlineopenkey | 7 = ss, 89.185.84.185, 443, encrypt-method = chacha20-ietf-poly1305, password = d4GSHcTfCYNIpz7d6EyTQy
 [Proxy Group]
-MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @iP_CF | 23,🔒 | ss | @iP_CF | 25,🔒 | ss | @shadowsocksm | 24,🔒 | ss | @shadowsocksm | 12,🔒 | trojan | @DirectVPN | 0,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @iP_CF | 22,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @iP_CF | 27,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 7,🔒 | trojan | @privatevpns | 2,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @shadowsockskeys | 16
-URL-TEST = url-test,🔒 | ss | @iP_CF | 23,🔒 | ss | @iP_CF | 25,🔒 | ss | @shadowsocksm | 24,🔒 | ss | @shadowsocksm | 12,🔒 | trojan | @DirectVPN | 0,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @iP_CF | 22,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @iP_CF | 27,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 7,🔒 | trojan | @privatevpns | 2,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @shadowsockskeys | 16
-FALLBACK = fallback,🔒 | ss | @iP_CF | 23,🔒 | ss | @iP_CF | 25,🔒 | ss | @shadowsocksm | 24,🔒 | ss | @shadowsocksm | 12,🔒 | trojan | @DirectVPN | 0,🔒 | trojan | @DirectVPN | 1,🔒 | ss | @outlineopenkey | 0,🔒 | ss | @iP_CF | 22,🔒 | ss | @outlineopenkey | 4,🔒 | ss | @iP_CF | 27,🔒 | ss | @outlineopenkey | 5,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 7,🔒 | trojan | @privatevpns | 2,🔒 | trojan | @DirectVPN | 3,🔒 | ss | @outlineopenkey | 1,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 8,🔒 | ss | @shadowsockskeys | 3,🔒 | ss | @shadowsockskeys | 16
+MANUAL = select,URL-TEST,FALLBACK,🔒 | ss | @iP_CF | 34,🔒 | ss | @iP_CF | 36,🔒 | ss | @shadowsocksm | 6,🔒 | ss | @iP_CF | 10,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 17,🔒 | ss | @outlineopenkey | 7
+URL-TEST = url-test,🔒 | ss | @iP_CF | 34,🔒 | ss | @iP_CF | 36,🔒 | ss | @shadowsocksm | 6,🔒 | ss | @iP_CF | 10,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 17,🔒 | ss | @outlineopenkey | 7
+FALLBACK = fallback,🔒 | ss | @iP_CF | 34,🔒 | ss | @iP_CF | 36,🔒 | ss | @shadowsocksm | 6,🔒 | ss | @iP_CF | 10,🔒 | ss | @outlineopenkey | 3,🔒 | ss | @outlineopenkey | 2,🔒 | ss | @shadowsockskeys | 17,🔒 | ss | @outlineopenkey | 7
 [Rule]
 GEOIP,IR,DIRECT
 FINAL,MANUAL
