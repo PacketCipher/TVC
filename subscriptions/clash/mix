@@ -118,55 +118,91 @@ dns:
     - "https://8.8.4.4/dns-query"
 
 proxies:
+  - {"name":"🔒 | ss | @iP_CF | 33","type":"ss","server":"45.87.175.10","port":8080,"password":"oZIoA69Q8yhcQV8ka3Pa3A","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @iP_CF | 34","type":"ss","server":"admin.c2.webramz.co","port":443,"password":"WstuSnlu4ieA9M0L","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @iP_CF | 36","type":"ss","server":"series-a2-mec.varzesh360.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @shadowsocksm | 6","type":"ss","server":"admin.c2.havij.co","port":443,"password":"AcGFEsMR6c07Txux","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @iP_CF | 10","type":"ss","server":"45.87.175.178","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 3","type":"ss","server":"81.19.141.45","port":443,"password":"iHHTpYLdqY5cDSPnXTaZuQ","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 2","type":"ss","server":"89.185.84.185","port":443,"password":"2QzgzQm073v8eaEqOFTFg8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsocksm | 14","type":"ss","server":"admin.c2.havij.co","port":443,"password":"AcGFEsMR6c07Txux","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @vmess_vless_v2rayng | 18","type":"ss","server":"series-a2-mec.varzesh360.co","port":443,"password":"u17T3BvpYaaiuW2c","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 6","type":"ss","server":"89.185.84.185","port":443,"password":"8Rpw0tO8f4BTjW5pKrOYrK","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 3","type":"ss","server":"89.185.84.185","port":443,"password":"2QzgzQm073v8eaEqOFTFg8","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 1","type":"ss","server":"89.185.84.185","port":443,"password":"YWFh9vJrEcSSlPkqi2Y3nP","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @iP_CF | 38","type":"ss","server":"45.87.175.178","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 0","type":"ss","server":"81.19.141.45","port":443,"password":"wnPOnZoUK3SkNP4yoRhLNH","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @iP_CF | 37","type":"ss","server":"45.87.175.192","port":8080,"password":"cvII85TrW6n0OGyfpHVS1u","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 4","type":"ss","server":"81.19.141.45","port":443,"password":"iHHTpYLdqY5cDSPnXTaZuQ","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsocksm | 45","type":"ss","server":"23.177.185.63","port":49454,"password":"9ju9N8hrNFGVp8EW6mik9b","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsocksm | 16","type":"ss","server":"77.105.166.12","port":8594,"password":"mSQiuT5jR17nyWgcXOPrTW","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 2","type":"ss","server":"77.83.246.74","port":443,"password":"krqf3jqX3EapZMmhR6AXGP","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @outlineopenkey | 5","type":"ss","server":"77.83.246.74","port":443,"password":"NbZNxuETXu3wGGbuiOT8RR","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🔒 | ss | @shadowsockskeys | 9","type":"ss","server":"185.193.102.7","port":57456,"password":"360e21d21977dc11","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🔒 | ss | @shadowsockskeys | 17","type":"ss","server":"147.78.3.93","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🔒 | ss | @outlineopenkey | 7","type":"ss","server":"89.185.84.185","port":443,"password":"d4GSHcTfCYNIpz7d6EyTQy","cipher":"chacha20-ietf-poly1305"}
 proxy-groups:
   - name: MANUAL
     type: select
     proxies:
       - URL-TEST
       - FALLBACK
+      - '🔒 | ss | @iP_CF | 33'
       - '🔒 | ss | @iP_CF | 34'
-      - '🔒 | ss | @iP_CF | 36'
-      - '🔒 | ss | @shadowsocksm | 6'
-      - '🔒 | ss | @iP_CF | 10'
+      - '🔒 | ss | @shadowsocksm | 14'
+      - '🔒 | ss | @vmess_vless_v2rayng | 18'
+      - '🔒 | ss | @outlineopenkey | 6'
       - '🔒 | ss | @outlineopenkey | 3'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @iP_CF | 38'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @iP_CF | 37'
+      - '🔒 | ss | @outlineopenkey | 4'
+      - '🔒 | ss | @shadowsocksm | 45'
+      - '🔒 | ss | @shadowsocksm | 16'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 5'
+      - '🔒 | ss | @shadowsockskeys | 9'
       - '🔒 | ss | @shadowsockskeys | 17'
-      - '🔒 | ss | @outlineopenkey | 7'
   - name: URL-TEST
     type: url-test
     url: http://cp.cloudflare.com
     interval: 60
     tolerance: 50
     proxies:
+      - '🔒 | ss | @iP_CF | 33'
       - '🔒 | ss | @iP_CF | 34'
-      - '🔒 | ss | @iP_CF | 36'
-      - '🔒 | ss | @shadowsocksm | 6'
-      - '🔒 | ss | @iP_CF | 10'
+      - '🔒 | ss | @shadowsocksm | 14'
+      - '🔒 | ss | @vmess_vless_v2rayng | 18'
+      - '🔒 | ss | @outlineopenkey | 6'
       - '🔒 | ss | @outlineopenkey | 3'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @iP_CF | 38'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @iP_CF | 37'
+      - '🔒 | ss | @outlineopenkey | 4'
+      - '🔒 | ss | @shadowsocksm | 45'
+      - '🔒 | ss | @shadowsocksm | 16'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 5'
+      - '🔒 | ss | @shadowsockskeys | 9'
       - '🔒 | ss | @shadowsockskeys | 17'
-      - '🔒 | ss | @outlineopenkey | 7'
   - name: FALLBACK
     type: fallback
     url: http://cp.cloudflare.com
     interval: 60
     proxies:
+      - '🔒 | ss | @iP_CF | 33'
       - '🔒 | ss | @iP_CF | 34'
-      - '🔒 | ss | @iP_CF | 36'
-      - '🔒 | ss | @shadowsocksm | 6'
-      - '🔒 | ss | @iP_CF | 10'
+      - '🔒 | ss | @shadowsocksm | 14'
+      - '🔒 | ss | @vmess_vless_v2rayng | 18'
+      - '🔒 | ss | @outlineopenkey | 6'
       - '🔒 | ss | @outlineopenkey | 3'
+      - '🔒 | ss | @outlineopenkey | 1'
+      - '🔒 | ss | @iP_CF | 38'
+      - '🔒 | ss | @outlineopenkey | 0'
+      - '🔒 | ss | @iP_CF | 37'
+      - '🔒 | ss | @outlineopenkey | 4'
+      - '🔒 | ss | @shadowsocksm | 45'
+      - '🔒 | ss | @shadowsocksm | 16'
       - '🔒 | ss | @outlineopenkey | 2'
+      - '🔒 | ss | @outlineopenkey | 5'
+      - '🔒 | ss | @shadowsockskeys | 9'
       - '🔒 | ss | @shadowsockskeys | 17'
-      - '🔒 | ss | @outlineopenkey | 7'
 rules:
   - IP-CIDR,127.0.0.1/32,DIRECT,no-resolve
   - IP-CIDR,198.18.0.1/16,DIRECT,no-resolve
